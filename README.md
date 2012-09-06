@@ -18,7 +18,7 @@ I update my settings when I start to code in a new machine and commit and push w
 Location on **Mac OS X** `~/Library/Application Support/Sublime Text 2/`<br/>
 Location on **Windows** `%appdata%\Sublime Text 2\`
 3. Create a new repo on github, preferably with a name other then `Sublime Text 2` 
-to avoid confusion and mistakes. Something like my-sublime-settings
+to avoid confusion and mistakes. Something like `my-sublime-settings`
 4. Clone the repo to your computer. I like to keep my repos on a single `github/` folder.
 5. Copy the files from your backup folder on **step 2** to the `/your/path/to/github/my-sublime-settings` folder
 6. _(optional)_ Tell to your `.gitignore` file to ignore the `/your/path/to/github/my-sublime-settings/Backup` folder 
