@@ -1,6 +1,6 @@
 ### What?
 
-I synced my settings files to github
+I synced my **[Sublime Text 2](http://www.sublimetext.com/2)** settings files to github
 
 ### Why?
 
