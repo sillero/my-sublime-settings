@@ -24,8 +24,8 @@ to avoid confusion and mistakes. Something like my-sublime-settings
 6. _(optional)_ Tell to your `.gitignore` file to ignore the `/your/path/to/github/my-sublime-settings/Backup` folder 
 by adding `Backup/` to it (this can be a very large folder)
 7. Commit and Push
-8. Delete the original `Sublime Text 2` folder on the locations in **step 2** (must be done in every computer you are in)
-9. Create symbolic links to replace the original `Sublime Text 2` folder (must be done in every computer you are in):
+8. Delete the original `Sublime Text 2` folder on the locations in **step 2** _(must be done in every computer you use)_
+9. Create symbolic links to replace the original `Sublime Text 2` folder _(must be done in every computer you use)_:
 
 **Mac OS X**<br/>
 
