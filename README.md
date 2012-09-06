@@ -8,7 +8,7 @@ So I can have the same packages and settings at work, at home and on the move wi
 
 ### And why didn't you use that other method with Dropbox/Google Drive?
 
-I did, but it can present serious problems on sync. This is way is more safe for me, so it can avoid conflicts.
+I did, but it can present serious problems on sync. This is way is safer for me, so it can avoid conflicts.
 I update my settings when I start to code in a new machine and commit and push when I'm done with it.
 
 ### How?
