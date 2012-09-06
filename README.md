@@ -14,7 +14,7 @@ I update my settings when I start to code in a new machine and commit and push w
 ### How?
 
 1. Close Sublime Text 2
-2. The most !important step: **BACKUP your files**:<br/>
+2. **The most !important step: BACKUP YOUR FILES**:<br/>
 Location on **Mac OS X** `~/Library/Application Support/Sublime Text 2/`<br/>
 Location on **Windows** `%appdata%\Sublime Text 2\`
 3. Create a new repo on github, preferably with a name other then `Sublime Text 2` 
