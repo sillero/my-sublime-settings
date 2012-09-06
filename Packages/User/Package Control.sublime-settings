@@ -11,6 +11,7 @@
 		"JsMinifier",
 		"LESS",
 		"LESS-build",
+		"LiveReload",
 		"Package Control",
 		"Prefixr",
 		"Sublime-JSHint",
