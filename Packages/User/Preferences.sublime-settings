@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/GrandsonOfObsidian.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"phoenix_blur_current_tab": true,
+	"phoenix_color_orange": true,
+	"phoenix_highlight_current_tab": true,
+	"theme": "Phoenix Dark.sublime-theme"
+}

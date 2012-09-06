@@ -1,0 +1,24 @@
+{
+	"auto_upgrade_last_run": 1346934337,
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"ColorPicker",
+		"CSSLint",
+		"EncodingHelper",
+		"jQuery",
+		"JsMinifier",
+		"LESS",
+		"LESS-build",
+		"Package Control",
+		"Prefixr",
+		"Sublime-JSHint",
+		"SublimeLinter",
+		"Theme - Aqua",
+		"Theme - Phoenix",
+		"Theme - Pseudo OSX",
+		"Theme - Soda",
+		"ZenCoding"
+	]
+}

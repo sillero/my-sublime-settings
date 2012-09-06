@@ -1,0 +1,4 @@
+{
+	"cmd": ["c:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319\\MSBuild.exe"],
+    "working_dir": "${project_path:${folder:${file_path}}}"
+}
