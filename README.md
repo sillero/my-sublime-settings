@@ -6,6 +6,10 @@ I synced my settings files to github
 
 So I can have the same packages and settings at work, at home and on the move with my macbook
 
+## And why didn't you use that other method with Dropbox/Google Drive?
+
+I did, but it can present serious problems on sync. This is way is more safe for me.
+
 ## How?
 
 1. The most !important step: **BACKUP your files**<br/>
