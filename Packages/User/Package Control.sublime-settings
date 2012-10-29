@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1346934337,
+	"auto_upgrade_last_run": 1351535762,
 	"installed_packages":
 	[
 		"Alignment",
@@ -14,6 +14,7 @@
 		"LiveReload",
 		"Package Control",
 		"Prefixr",
+		"ReadonlyWritable",
 		"Sublime-JSHint",
 		"SublimeLinter",
 		"Theme - Aqua",
