@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/C/Users/gustavo.dornelles/Documents/www/nucleo/js",
 		"/C/Users/gustavo.dornelles/Documents/_EZ_HelpDesk/EZ.HelpDesk.Web",
 		"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Content",
 		"/C/Users/gustavo.dornelles/Documents/_EZ_Manager/code/EZ.Manager.Admin",
@@ -14,10 +15,10 @@
 		"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets",
 		"/C/Users/gustavo.dornelles/Documents/GitHub/number-polyfill"
 	],
-	"last_window_id": 27,
+	"last_window_id": 29,
 	"settings":
 	{
-		"new_window_height": 484.0,
+		"new_window_height": 756.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -157,6 +158,18 @@
 						"Indentation: Reindent Lines"
 					],
 					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
 						"inst",
 						"Package Control: Install Package"
 					],
@@ -171,10 +184,6 @@
 					[
 						"packa",
 						"Package Control: List Packages"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
 					],
 					[
 						"pack",
@@ -215,10 +224,6 @@
 					[
 						"lis",
 						"Package Control: List Packages"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
 					],
 					[
 						"install",
@@ -266,6 +271,27 @@
 			},
 			"file_history":
 			[
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.type.range/Styles/wd.facet.type.range.css",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.group/Styles/wd.facet.group.less",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.type.list/Scripts/wd.facet.type.list.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.type.list/Styles/wd.facet.type.list.less",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/Left.template",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Config/Unity.config",
+				"/C/Users/gustavo.dornelles/Documents/www/solr/styles.css",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Scripts/jquery.ba-tinypubsub.min.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/Styles/area-shopping.less",
+				"/C/Users/gustavo.dornelles/Documents/www/nucleo/js/nucleo.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.type.range/wd.facet.type.range.template",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.banner/wd.marketing.banner.template",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.group/Styles/wd.facet.group.css",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/db/Deploy/Startup/Widgets/browsing.navigationhistory.sql",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.newsletter/Scripts/wd.marketing.newsletter.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/error.summary/Scripts/wd.error.summary.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/db/Deploy/Startup/Widgets/product.medias.sql",
+				"/C/Users/gustavo.dornelles/AppData/Roaming/Sublime Text 2/Packages/BracketHighlighter/BracketHighlighter.sublime-settings",
+				"/C/Users/gustavo.dornelles/AppData/Roaming/Sublime Text 2/Packages/Color Scheme - Default/GrandsonOfObsidian.tmTheme",
+				"/C/Users/gustavo.dornelles/Documents/www/solr/script.v3.js",
 				"/C/Users/gustavo.dornelles/AppData/Roaming/Sublime Text 2/Packages/Color Scheme - Default/Espresso Libre.tmTheme",
 				"//EZSTORAGE-01/Farm.CoreASP/IIS.Applications/www.ezcommerce.local/footer.asp",
 				"/C/Users/gustavo.dornelles/Documents/www/solr/script.js",
@@ -300,7 +326,6 @@
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/Styles/vars.less",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.banner/Styles/wd.marketing.banner.less",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Scripts/core/jquery.core.widget.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.banner/wd.marketing.banner.template",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.notifymewhenavailable/Scripts/wd.product.notifymewhenavailable.js",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.welcome.shopper/Scripts/wd.profile.welcome.shopper.js",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/success.message/Scripts/wd.success.message.js",
@@ -345,7 +370,6 @@
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.reviews/Scripts/wd.product.reviews.js",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.addresses/Scripts/wd.profile.addresses.js",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.login/Scripts/wd.profile.login.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.newsletter/Scripts/wd.marketing.newsletter.js",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.welcome.shopper/welcome.shopper.data.template",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.addresses/Scripts/wd.checkout.addresses.js",
 				"/C/Users/gustavo.dornelles/Documents/www/github/sillero.github.com/CNAME",
@@ -370,30 +394,11 @@
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.addressform/Scripts/wd.profile.addressform.js",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.payment.pagamentodigital/wd.checkout.payment.pagamentodigital.template",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.payment/Scripts/wd.checkout.payment.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/error.summary/Scripts/wd.error.summary.js",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.payment/Styles/wd.checkout.payment.css",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.payment.pagamentodigital/Styles/wd.checkout.payment.pagamentodigital.css",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.ordersummary/Styles/wd.checkout.ordersummary.less",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.addresses/Styles/wd.checkout.addresses.less",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.orders/Scripts/wd.profile.orders.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/profile.orders.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.ordersummary/Scripts/wd.checkout.ordersummary.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.orders/wd.profile.orders.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.basket.summaryheader/Scripts/wd.checkout.basket.summaryheader.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/profile.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/checkout.delivery.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.deliveryservices/wd.checkout.deliveryservices.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.deliveryservices/delivery.options.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/Styles/area-checkout.less",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.register/wd.profile.register.addressdata.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/profile.orderdetail.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.orderpayment/wd.checkout.orderpayment.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/Styles/area-checkout.css",
-				"/C/Users/gustavo.dornelles/Documents/_PROJETOS/netlens.com.br/trunk/code/site/_JS/01-store.js",
-				"/C/Users/gustavo.dornelles/Desktop/sortVariations.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/success.message/wd.success.message.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.addressform/wd.profile.addressform.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.addressform/Styles/wd.profile.addressform.css"
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.orders/Scripts/wd.profile.orders.js"
 			],
 			"find":
 			{
@@ -401,9 +406,11 @@
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 90.0,
 				"where_history":
 				[
+					"C:\\Users\\gustavo.dornelles\\Documents\\ez_core_store\\code\\EZ.Store.Mvc.Web\\Custom\\Content\\Themes",
+					"C:\\Users\\gustavo.dornelles\\Documents\\ez_core_store\\code\\EZ.Store.Mvc.Web\\Custom\\Content\\",
 					"C:\\Users\\gustavo.dornelles\\Documents\\ez_core_store\\code\\EZ.Store.Mvc.Web\\Custom\\Content\\Widgets",
 					"C:\\Users\\gustavo.dornelles\\Documents\\ez_core_store\\code\\EZ.Store.Mvc.Web\\Custom\\Content",
 					"C:\\Users\\gustavo.dornelles\\Documents\\ez_core_store\\code\\EZ.Store.Mvc.Web\\Custom\\Content\\Widgets",
@@ -415,6 +422,11 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"context",
+					"context:",
+					"subsc",
+					"name",
+					"solr",
 					"current",
 					"solr",
 					"$range",
@@ -537,12 +549,7 @@
 					"css(",
 					"side-menu",
 					"css(",
-					"display",
-					"displa",
-					"getho",
-					"alert",
-					"rebuildun",
-					"rebuild"
+					"display"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -579,16 +586,36 @@
 						0,
 						1,
 						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
+					],
+					[
+						1,
+						1,
+						2,
+						2
 					]
 				],
 				"cols":
 				[
 					0.0,
+					0.5,
 					1.0
 				],
 				"rows":
 				[
 					0.0,
+					0.5,
 					1.0
 				]
 			},
@@ -611,6 +638,22 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"left",
+						"Custom/Content/Themes/Default/Left.template"
+					],
+					[
+						"unity",
+						"Config/Unity.config"
+					],
+					[
+						"left.",
+						"Custom/Content/Themes/Default/Left.template"
+					],
+					[
+						"area-s",
+						"Custom/Content/Themes/Default/Styles/area-shopping.less"
+					],
 					[
 						"checkout.addr",
 						"Custom/Content/Widgets/checkout.addresses/wd.checkout.addresses.template"
@@ -746,10 +789,6 @@
 					[
 						"area-cus",
 						"Custom/Content/Themes/Default/Styles/area-customer.less"
-					],
-					[
-						"area-s",
-						"Custom/Content/Themes/Default/Styles/area-shopping.less"
 					],
 					[
 						"spr",
@@ -1110,18 +1149,6 @@
 					[
 						"desi",
 						"Content/design-structure.css"
-					],
-					[
-						"shell.ho",
-						"Scripts/jquery.shell.holder.js"
-					],
-					[
-						"catalog/views/in",
-						"Areas/Catalog/Views/InventoryMovement/Movement.ascx"
-					],
-					[
-						"style.css",
-						"Content/style.css"
 					]
 				],
 				"width": 0.0
@@ -1133,7 +1160,7 @@
 				[
 					[
 						"",
-						"/C/Users/gustavo.dornelles/Documents/EZ.Store.Mvc.Admin.sublime-project"
+						"/C/Users/gustavo.dornelles/Documents/EZ_Manager.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -1142,10 +1169,10 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 201.0,
+			"side_bar_width": 283.0,
 			"status_bar_visible": true
 		},
-		"new_window_width": 1296.0
+		"new_window_width": 1582.0
 	},
 	"windows":
 	[
@@ -1279,6 +1306,71 @@
 			"buffers":
 			[
 				{
+					"file": "www/solr/index.html",
+					"settings":
+					{
+						"buffer_size": 1870,
+						"line_ending": "Windows",
+						"name": "<!doctype html>"
+					}
+				},
+				{
+					"file": "ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.group/wd.facet.group.template",
+					"settings":
+					{
+						"buffer_size": 848,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.type.list/wd.facet.type.list.template",
+					"settings":
+					{
+						"buffer_size": 1120,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.type.range/wd.facet.type.range.template",
+					"settings":
+					{
+						"buffer_size": 473,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "www/solr/styles.css",
+					"settings":
+					{
+						"buffer_size": 1880,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.group/Styles/wd.facet.group.less",
+					"settings":
+					{
+						"buffer_size": 762,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.type.list/Styles/wd.facet.type.list.less",
+					"settings":
+					{
+						"buffer_size": 25,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.type.range/Styles/wd.facet.type.range.less",
+					"settings":
+					{
+						"buffer_size": 1567,
+						"line_ending": "Windows"
+					}
+				},
+				{
 					"file": "www/solr/script.v2.js",
 					"settings":
 					{
@@ -1290,43 +1382,57 @@
 					"file": "www/solr/script.v3.js",
 					"settings":
 					{
-						"buffer_size": 13708,
+						"buffer_size": 13709,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "www/solr/index.html",
+					"file": "ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.group/Scripts/wd.facet.group.js",
 					"settings":
 					{
-						"buffer_size": 1870,
-						"line_ending": "Windows",
-						"name": "<!doctype html>"
+						"buffer_size": 5393,
+						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "www/solr/styles.css",
+					"file": "ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.type.range/Scripts/wd.facet.type.range.js",
 					"settings":
 					{
-						"buffer_size": 1880,
-						"line_ending": "Windows",
-						"name": "html, body {"
+						"buffer_size": 7826,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/gustavo.dornelles/Desktop/facetas/facet.group.sql",
+					"settings":
+					{
+						"buffer_size": 3275,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/gustavo.dornelles/Desktop/facetas/facet.type.list.sql",
+					"settings":
+					{
+						"buffer_size": 3300,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/gustavo.dornelles/Desktop/facetas/facet.type.range.sql",
+					"settings":
+					{
+						"buffer_size": 3307,
+						"line_ending": "Windows"
 					}
 				}
 			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 160.0,
+				"height": 323.0,
 				"selected_items":
 				[
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
 					[
 						"in",
 						"Package Control: Install Package"
@@ -1334,6 +1440,14 @@
 					[
 						"re",
 						"Indentation: Reindent Lines"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
 					],
 					[
 						"inst",
@@ -1437,6 +1551,27 @@
 			},
 			"file_history":
 			[
+				"/C/Users/gustavo.dornelles/AppData/Roaming/Sublime Text 2/Packages/Default/Main.sublime-menu",
+				"/C/Users/gustavo.dornelles/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/C/Users/gustavo.dornelles/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.type.range/Styles/wd.facet.type.range.css",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.group/Styles/wd.facet.group.less",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.type.list/Scripts/wd.facet.type.list.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.type.list/Styles/wd.facet.type.list.less",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/Left.template",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Config/Unity.config",
+				"/C/Users/gustavo.dornelles/Documents/www/solr/styles.css",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Scripts/jquery.ba-tinypubsub.min.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/Styles/area-shopping.less",
+				"/C/Users/gustavo.dornelles/Documents/www/nucleo/js/nucleo.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.type.range/wd.facet.type.range.template",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.banner/wd.marketing.banner.template",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.group/Styles/wd.facet.group.css",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/db/Deploy/Startup/Widgets/browsing.navigationhistory.sql",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.newsletter/Scripts/wd.marketing.newsletter.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/error.summary/Scripts/wd.error.summary.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/db/Deploy/Startup/Widgets/product.medias.sql",
 				"/C/Users/gustavo.dornelles/AppData/Roaming/Sublime Text 2/Packages/BracketHighlighter/BracketHighlighter.sublime-settings",
 				"/C/Users/gustavo.dornelles/AppData/Roaming/Sublime Text 2/Packages/Color Scheme - Default/GrandsonOfObsidian.tmTheme",
 				"/C/Users/gustavo.dornelles/Documents/www/solr/script.v3.js",
@@ -1474,7 +1609,6 @@
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/Styles/vars.less",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.banner/Styles/wd.marketing.banner.less",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Scripts/core/jquery.core.widget.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.banner/wd.marketing.banner.template",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.notifymewhenavailable/Scripts/wd.product.notifymewhenavailable.js",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.welcome.shopper/Scripts/wd.profile.welcome.shopper.js",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/success.message/Scripts/wd.success.message.js",
@@ -1519,7 +1653,6 @@
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.reviews/Scripts/wd.product.reviews.js",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.addresses/Scripts/wd.profile.addresses.js",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.login/Scripts/wd.profile.login.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.newsletter/Scripts/wd.marketing.newsletter.js",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.welcome.shopper/welcome.shopper.data.template",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.addresses/Scripts/wd.checkout.addresses.js",
 				"/C/Users/gustavo.dornelles/Documents/www/github/sillero.github.com/CNAME",
@@ -1544,27 +1677,8 @@
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.addressform/Scripts/wd.profile.addressform.js",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.payment.pagamentodigital/wd.checkout.payment.pagamentodigital.template",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.payment/Scripts/wd.checkout.payment.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/error.summary/Scripts/wd.error.summary.js",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.payment/Styles/wd.checkout.payment.css",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.payment.pagamentodigital/Styles/wd.checkout.payment.pagamentodigital.css",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.ordersummary/Styles/wd.checkout.ordersummary.less",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.addresses/Styles/wd.checkout.addresses.less",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.orders/Scripts/wd.profile.orders.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/profile.orders.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.ordersummary/Scripts/wd.checkout.ordersummary.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.orders/wd.profile.orders.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.basket.summaryheader/Scripts/wd.checkout.basket.summaryheader.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/profile.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/checkout.delivery.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.deliveryservices/wd.checkout.deliveryservices.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.deliveryservices/delivery.options.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/Styles/area-checkout.less",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.register/wd.profile.register.addressdata.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/profile.orderdetail.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.orderpayment/wd.checkout.orderpayment.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/Styles/area-checkout.css",
-				"/C/Users/gustavo.dornelles/Documents/_PROJETOS/netlens.com.br/trunk/code/site/_JS/01-store.js",
-				"/C/Users/gustavo.dornelles/Desktop/sortVariations.js"
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.payment.pagamentodigital/Styles/wd.checkout.payment.pagamentodigital.css"
 			],
 			"find":
 			{
@@ -1572,9 +1686,11 @@
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 90.0,
 				"where_history":
 				[
+					"C:\\Users\\gustavo.dornelles\\Documents\\ez_core_store\\code\\EZ.Store.Mvc.Web\\Custom\\Content\\Themes",
+					"C:\\Users\\gustavo.dornelles\\Documents\\ez_core_store\\code\\EZ.Store.Mvc.Web\\Custom\\Content\\",
 					"C:\\Users\\gustavo.dornelles\\Documents\\ez_core_store\\code\\EZ.Store.Mvc.Web\\Custom\\Content\\Widgets",
 					"C:\\Users\\gustavo.dornelles\\Documents\\ez_core_store\\code\\EZ.Store.Mvc.Web\\Custom\\Content",
 					"C:\\Users\\gustavo.dornelles\\Documents\\ez_core_store\\code\\EZ.Store.Mvc.Web\\Custom\\Content\\Widgets",
@@ -1586,6 +1702,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"context",
+					"context:",
 					"subsc",
 					"name",
 					"solr",
@@ -1711,9 +1829,7 @@
 					"css(",
 					"side-menu",
 					"css(",
-					"display",
-					"displa",
-					"getho"
+					"display"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1736,11 +1852,878 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 3,
 					"sheets":
 					[
 						{
 							"buffer": 0,
+							"file": "www/solr/index.html",
+							"settings":
+							{
+								"buffer_size": 1870,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										198,
+										721
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"auto_name": "<!doctype html>",
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"encoding_helper_confidence": 0.505,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_helper_encoding_sublime": "UTF-8",
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 150.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.group/wd.facet.group.template",
+							"settings":
+							{
+								"buffer_size": 848,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										33,
+										33
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"encoding_helper_confidence": 1.0,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_helper_encoding_sublime": "UTF-8",
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.type.list/wd.facet.type.list.template",
+							"settings":
+							{
+								"buffer_size": 1120,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										806,
+										806
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_confidence": 1.0,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_helper_encoding_sublime": "UTF-8",
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 180.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.type.range/wd.facet.type.range.template",
+							"settings":
+							{
+								"buffer_size": 473,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										276,
+										276
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"encoding_helper_confidence": 1.0,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_helper_encoding_sublime": "UTF-8",
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 210.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 4,
+							"file": "www/solr/styles.css",
+							"settings":
+							{
+								"buffer_size": 1880,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1448,
+										1448
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"encoding_helper_confidence": 0.505,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_helper_encoding_sublime": "UTF-8",
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1125.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.group/Styles/wd.facet.group.less",
+							"settings":
+							{
+								"buffer_size": 762,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										366,
+										366
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"encoding_helper_confidence": 1.0,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_helper_encoding_sublime": "UTF-8",
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/LESS/LESS.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.type.list/Styles/wd.facet.type.list.less",
+							"settings":
+							{
+								"buffer_size": 25,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										23,
+										23
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"encoding_helper_confidence": 1.0,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_helper_encoding_sublime": "UTF-8",
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/LESS/LESS.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.type.range/Styles/wd.facet.type.range.less",
+							"settings":
+							{
+								"buffer_size": 1567,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										938,
+										938
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"encoding_helper_confidence": 1.0,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_helper_encoding_sublime": "UTF-8",
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/LESS/LESS.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 540.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 8,
 							"file": "www/solr/script.v2.js",
 							"settings":
 							{
@@ -1751,8 +2734,8 @@
 								"selection":
 								[
 									[
-										6960,
-										6960
+										6985,
+										6985
 									]
 								],
 								"settings":
@@ -1858,19 +2841,19 @@
 							"type": "text"
 						},
 						{
-							"buffer": 1,
+							"buffer": 9,
 							"file": "www/solr/script.v3.js",
 							"settings":
 							{
-								"buffer_size": 13708,
+								"buffer_size": 13709,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1345,
-										1345
+										13619,
+										13705
 									]
 								],
 								"settings":
@@ -1970,25 +2953,25 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 225.0,
+								"translation.y": 6165.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
-							"buffer": 2,
-							"file": "www/solr/index.html",
+							"buffer": 10,
+							"file": "ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.group/Scripts/wd.facet.group.js",
 							"settings":
 							{
-								"buffer_size": 1870,
+								"buffer_size": 5393,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1268,
-										1268
+										4591,
+										4591
 									]
 								],
 								"settings":
@@ -1999,7 +2982,6 @@
 										"README",
 										"FIXME"
 									],
-									"auto_name": "<!doctype html>",
 									"csslint_options":
 									{
 										"adjoining-classes": "warning",
@@ -2034,7 +3016,7 @@
 										"vendor-prefix": true,
 										"zero-units": "warning"
 									},
-									"encoding_helper_confidence": 0.505,
+									"encoding_helper_confidence": 1.0,
 									"encoding_helper_encoding": "UTF-8",
 									"encoding_helper_encoding_sublime": "UTF-8",
 									"gjslint_ignore":
@@ -2085,30 +3067,30 @@
 										"Ruby on Rails": "ruby"
 									},
 									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 135.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
 						},
 						{
-							"buffer": 3,
-							"file": "www/solr/styles.css",
+							"buffer": 11,
+							"file": "ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.type.range/Scripts/wd.facet.type.range.js",
 							"settings":
 							{
-								"buffer_size": 1880,
+								"buffer_size": 7826,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										212,
-										212
+										4383,
+										4383
 									]
 								],
 								"settings":
@@ -2119,7 +3101,6 @@
 										"README",
 										"FIXME"
 									],
-									"auto_name": "html, body {",
 									"csslint_options":
 									{
 										"adjoining-classes": "warning",
@@ -2154,7 +3135,7 @@
 										"vendor-prefix": true,
 										"zero-units": "warning"
 									},
-									"encoding_helper_confidence": 0.505,
+									"encoding_helper_confidence": 0.99,
 									"encoding_helper_encoding": "UTF-8",
 									"encoding_helper_encoding_sublime": "UTF-8",
 									"gjslint_ignore":
@@ -2205,9 +3186,271 @@
 										"Ruby on Rails": "ruby"
 									},
 									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/CSS/CSS.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1980.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/C/Users/gustavo.dornelles/Desktop/facetas/facet.group.sql",
+							"settings":
+							{
+								"buffer_size": 3275,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										3275
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"encoding_helper_confidence": 0.99,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_helper_encoding_sublime": "UTF-8",
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/SQL/SQL.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1035.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/C/Users/gustavo.dornelles/Desktop/facetas/facet.type.list.sql",
+							"settings":
+							{
+								"buffer_size": 3300,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										215,
+										215
+									]
+								],
+								"settings":
+								{
+									"encoding_helper_confidence": 0.99,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_helper_encoding_sublime": "UTF-8",
+									"syntax": "Packages/SQL/SQL.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"file": "/C/Users/gustavo.dornelles/Desktop/facetas/facet.type.range.sql",
+							"settings":
+							{
+								"buffer_size": 3307,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										239,
+										239
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"encoding_helper_confidence": 0.99,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_helper_encoding_sublime": "UTF-8",
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/SQL/SQL.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -2235,16 +3478,30 @@
 						0,
 						1,
 						1
+					],
+					[
+						0,
+						1,
+						1,
+						2
+					],
+					[
+						1,
+						0,
+						2,
+						2
 					]
 				],
 				"cols":
 				[
 					0.0,
+					0.393129770992,
 					1.0
 				],
 				"rows":
 				[
 					0.0,
+					0.20298879203,
 					1.0
 				]
 			},
@@ -2257,7 +3514,7 @@
 			{
 				"height": 186.0
 			},
-			"position": "0,2,3,-1,-1,-1,-1,784,235,242,1547",
+			"position": "0,2,3,-32000,-32000,-1,-1,814,0,0,1598",
 			"replace":
 			{
 				"height": 62.0
@@ -2268,6 +3525,22 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"left",
+						"Custom/Content/Themes/Default/Left.template"
+					],
+					[
+						"unity",
+						"Config/Unity.config"
+					],
+					[
+						"left.",
+						"Custom/Content/Themes/Default/Left.template"
+					],
+					[
+						"area-s",
+						"Custom/Content/Themes/Default/Styles/area-shopping.less"
+					],
 					[
 						"checkout.addr",
 						"Custom/Content/Widgets/checkout.addresses/wd.checkout.addresses.template"
@@ -2403,10 +3676,6 @@
 					[
 						"area-cus",
 						"Custom/Content/Themes/Default/Styles/area-customer.less"
-					],
-					[
-						"area-s",
-						"Custom/Content/Themes/Default/Styles/area-shopping.less"
 					],
 					[
 						"spr",
@@ -2767,18 +4036,6 @@
 					[
 						"desi",
 						"Content/design-structure.css"
-					],
-					[
-						"shell.ho",
-						"Scripts/jquery.shell.holder.js"
-					],
-					[
-						"catalog/views/in",
-						"Areas/Catalog/Views/InventoryMovement/Movement.ascx"
-					],
-					[
-						"style.css",
-						"Content/style.css"
 					]
 				],
 				"width": 0.0
@@ -2790,7 +4047,7 @@
 				[
 					[
 						"",
-						"/C/Users/gustavo.dornelles/Documents/EZ.Store.Mvc.Admin.sublime-project"
+						"/C/Users/gustavo.dornelles/Documents/EZ_Manager.sublime-project"
 					]
 				],
 				"width": 380.0
@@ -2799,7 +4056,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 201.0,
+			"side_bar_width": 159.0,
 			"status_bar_visible": true,
 			"window_id": 26,
 			"workspace_name": "/C/Users/gustavo.dornelles/Documents/EZ.Store.Mvc.Web.sublime-project"
@@ -2810,10 +4067,10 @@
 		"recent_workspaces":
 		[
 			"/C/Users/gustavo.dornelles/Documents/EZ.Store.Mvc.Web.sublime-project",
+			"/C/Users/gustavo.dornelles/Documents/EZ_Manager.sublime-project",
 			"/C/Users/gustavo.dornelles/Documents/EZ.Store.Mvc.Admin.sublime-project",
 			"/C/Users/gustavo.dornelles/Documents/EZ_HelpDesk.sublime-project",
 			"/C/Users/gustavo.dornelles/Documents/nucleo.sublime-project",
-			"/C/Users/gustavo.dornelles/Documents/EZ_Manager.sublime-project",
 			"/C/Users/gustavo.dornelles/Documents/GitHub/GITHUB.sublime-project"
 		]
 	}

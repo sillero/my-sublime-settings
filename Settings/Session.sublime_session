@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/C/Users/gustavo.dornelles/Documents/www/nucleo/js",
 		"/C/Users/gustavo.dornelles/Documents/_EZ_HelpDesk/EZ.HelpDesk.Web",
 		"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Content",
 		"/C/Users/gustavo.dornelles/Documents/_EZ_Manager/code/EZ.Manager.Admin",
@@ -14,7 +15,7 @@
 		"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets",
 		"/C/Users/gustavo.dornelles/Documents/GitHub/number-polyfill"
 	],
-	"last_window_id": 27,
+	"last_window_id": 28,
 	"settings":
 	{
 		"new_window_height": 484.0,
@@ -157,1185 +158,18 @@
 						"Indentation: Reindent Lines"
 					],
 					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"list",
-						"Package Control: List Packages"
-					],
-					[
-						"hin",
-						"JSHint: Linter"
-					],
-					[
-						"packa",
-						"Package Control: List Packages"
-					],
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"pack",
-						"Package Control: Upgrade Package"
-					],
-					[
-						"upper",
-						"Convert Case: Upper Case"
-					],
-					[
-						"rein",
-						"Indentation: Reindent Lines"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"rei",
-						"Indentation: Reindent Lines"
-					],
-					[
-						"reinden",
-						"Indentation: Reindent Lines"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"inde",
-						"Indentation: Reindent Lines"
-					],
-					[
-						"pac",
-						"Package Control: Remove Package"
-					],
-					[
-						"lis",
-						"Package Control: List Packages"
-					],
-					[
 						"remove",
 						"Package Control: Remove Package"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"package",
-						"Package Control: Remove Package"
-					],
-					[
-						"remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"linter",
-						"Preferences: JSLint Settings – User"
-					],
-					[
-						"jsh",
-						"JSHint: Linter"
-					],
-					[
-						"js",
-						"JSHint: Linter"
-					],
-					[
-						"Insta",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 514.0
-			},
-			"console":
-			{
-				"height": 125.0
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/C/Users/gustavo.dornelles/AppData/Roaming/Sublime Text 2/Packages/Color Scheme - Default/Espresso Libre.tmTheme",
-				"//EZSTORAGE-01/Farm.CoreASP/IIS.Applications/www.ezcommerce.local/footer.asp",
-				"/C/Users/gustavo.dornelles/Documents/www/solr/script.js",
-				"/C/Users/gustavo.dornelles/Documents/teste",
-				"/C/Users/gustavo.dornelles/AppData/Roaming/Sublime Text 2/Packages/User/LiveReload.sublime-settings",
-				"/C/Users/gustavo.dornelles/AppData/Roaming/Sublime Text 2/Packages/LiveReload/LiveReload.sublime-settings",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.addresses/wd.checkout.addresses.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.medias.zoom/Scripts/wd.product.medias.zoom.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.medias.displayer/Scripts/wd.product.medias.displayer.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.medias.selector/Scripts/wd.product.medias.selector.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.medias/wd.product.medias.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.medias.zoom/Styles/wd.product.medias.zoom.css",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.medias.selector/wd.product.medias.selector.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/Styles/basic.less",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.medias.selector/Styles/wd.product.medias.selector.less",
-				"/C/Users/gustavo.dornelles/Documents/_PROJETOS/_TOOLS/eztester/app.js",
-				"/C/Users/gustavo.dornelles/Documents/_PROJETOS/sillero.ezstore.local/trunk/code/site/_JS/00-tools.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.associations/wd.product.associations.crosssells.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.associations/Scripts/wd.product.associations.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.medias.displayer/wd.product.medias.displayer.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.addresses/registered.addresses.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.medias/Scripts/wd.product.medias.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.banner/Scripts/wd.marketing.banner.js",
-				"/C/Users/gustavo.dornelles/Downloads/images/sillerozoom.html",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.medias.displayer/Styles/wd.product.medias.displayer.css",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.medias.selector.carousel/Scripts/wd.product.medias.selector.carousel.js",
-				"/C/Users/gustavo.dornelles/Documents/Google Drive/EZ/QUESTOES.md",
-				"/C/Users/gustavo.dornelles/Documents/Google Drive/EZ/questoes_widgets.html",
-				"/C/Users/gustavo.dornelles/Documents/Google Drive/EZ/analise_refatoracao.html",
-				"/C/Users/gustavo.dornelles/Downloads/dillinger_2012_09_25T14_41_05_228Z.html",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.medias.zoom/wd.product.medias.zoom.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/Styles/vars.less",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.banner/Styles/wd.marketing.banner.less",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Scripts/core/jquery.core.widget.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.banner/wd.marketing.banner.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.notifymewhenavailable/Scripts/wd.product.notifymewhenavailable.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.welcome.shopper/Scripts/wd.profile.welcome.shopper.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/success.message/Scripts/wd.success.message.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.payment.pagamentodigital/Scripts/wd.checkout.payment.pagamentodigital.js",
-				"/C/Users/gustavo.dornelles/Documents/www/angular.min.js",
-				"/C/Users/gustavo.dornelles/Documents/_PROJETOS/nikkeycosmeticos.com.br/trunk/code/site/_JS/01-functions.js",
-				"//ezstorage-01/Farm.CoreASP/IIS.Applications/ezstore/custom/mendez.coreasp.local/current/site/Vitrine.Layouts.asp",
-				"//ezstorage-01/Farm.CoreASP/IIS.Applications/ezstore/core/dev/daniel.mendez/site/JS/03-layout.js",
-				"/C/Users/gustavo.dornelles/Documents/_PROJETOS/ciadoslivros.com.br/trunk/code/site/_JS/01-funcoes.js",
-				"/C/Users/gustavo.dornelles/Documents/_PROJETOS/ciadoslivros.com.br/trunk/code/site/_JS/05-produtos.asp.js",
-				"//ezstorage-01/Farm.CoreASP/IIS.Applications/ezstore/core/dev/daniel.mendez/site/JS/03-jquery-carrousel.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/Header.template",
-				"/C/Users/gustavo.dornelles/Desktop/01-checkout.paymentgroup.summary.sql",
-				"/C/Users/gustavo.dornelles/Desktop/checkout.basket.summaryheader-title.sql",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/db/Deploy/Startup/Widgets/marketing.banner.sql",
-				"/C/Users/gustavo.dornelles/Desktop/marketing.banner-update.sql",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/product.detail.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.register/wd.profile.register.customerdata.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.register/wd.profile.register.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.banner/Styles/wd.marketing.banner.css",
-				"/C/Users/gustavo.dornelles/AppData/Local/Temp/Rar$DI17.680/slides.min.jquery.js",
-				"/C/Users/gustavo.dornelles/AppData/Local/Temp/Rar$DI33.792/orbit-1.2.3.css",
-				"/C/Users/gustavo.dornelles/AppData/Local/Temp/Rar$DI65.792/jquery.orbit-1.2.3.min.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.banner/Styles/nivo-slider.css",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.banner/Scripts/jquery.nivo.slider.pack.js",
-				"/C/Users/gustavo.dornelles/AppData/Local/Temp/Rar$DI53.864/jquery.orbit-1.2.3.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.banner/Scripts/jquery.orbit-1.2.3.min.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.banner/Styles/orbit-1.2.3.css",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/Home.template",
-				"/C/Users/gustavo.dornelles/DeployerCfg/deployerCfg.xml",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.variations/Scripts/wd.product.variations.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.price/Scripts/wd.product.price.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.price/wd.product.price.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Scripts/core/jquery.core.widget.dialogs.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.deliveryfee/wd.product.deliveryfee.result.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Scripts/bundles/colorbox/jquery.colorbox.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.deliveryfee/Scripts/wd.product.deliveryfee.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/error.summary/wd.error.summary.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.newsletter/wd.marketing.newsletter.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.basket/Scripts/wd.checkout.basket.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.payment.options/Scripts/wd.product.payment.options.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.reviews/Scripts/wd.product.reviews.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.addresses/Scripts/wd.profile.addresses.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.login/Scripts/wd.profile.login.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.newsletter/Scripts/wd.marketing.newsletter.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.welcome.shopper/welcome.shopper.data.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.addresses/Scripts/wd.checkout.addresses.js",
-				"/C/Users/gustavo.dornelles/Documents/www/github/sillero.github.com/CNAME",
-				"/C/Users/gustavo.dornelles/Documents/GitHub/frontender.com.br/CNAME",
-				"/C/Users/gustavo.dornelles/Documents/www/github/sillero.github.com/README.md",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Scripts/jquery.validate.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Scripts/jquery.validate.min.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Scripts/bundles/simplemodal/jquery.simplemodal-1.4.1.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Scripts/core/jquery.core.widget.validate.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Scripts/jquery.meio.mask.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.register/Scripts/wd.profile.register.js",
-				"/C/Users/gustavo.dornelles/Documents/GitHub/my-sublime-settings/README.md",
-				"/C/Users/gustavo.dornelles/AppData/Roaming/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/profile.addresses.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.variations/wd.product.variations.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.addresses/wd.profile.addresses.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.ordersummary/wd.checkout.ordersummary.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.addresses/Styles/wd.profile.addresses.css",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/Styles/area-customer.less",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/profile.addresses.edit.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/success.message/Styles/wd.success.message.css",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.addressform/Scripts/wd.profile.addressform.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.payment.pagamentodigital/wd.checkout.payment.pagamentodigital.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.payment/Scripts/wd.checkout.payment.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/error.summary/Scripts/wd.error.summary.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.payment/Styles/wd.checkout.payment.css",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.payment.pagamentodigital/Styles/wd.checkout.payment.pagamentodigital.css",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.ordersummary/Styles/wd.checkout.ordersummary.less",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.addresses/Styles/wd.checkout.addresses.less",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.orders/Scripts/wd.profile.orders.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/profile.orders.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.ordersummary/Scripts/wd.checkout.ordersummary.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.orders/wd.profile.orders.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.basket.summaryheader/Scripts/wd.checkout.basket.summaryheader.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/profile.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/checkout.delivery.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.deliveryservices/wd.checkout.deliveryservices.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.deliveryservices/delivery.options.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/Styles/area-checkout.less",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.register/wd.profile.register.addressdata.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/profile.orderdetail.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.orderpayment/wd.checkout.orderpayment.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/Styles/area-checkout.css",
-				"/C/Users/gustavo.dornelles/Documents/_PROJETOS/netlens.com.br/trunk/code/site/_JS/01-store.js",
-				"/C/Users/gustavo.dornelles/Desktop/sortVariations.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/success.message/wd.success.message.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.addressform/wd.profile.addressform.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.addressform/Styles/wd.profile.addressform.css"
-			],
-			"find":
-			{
-				"height": 34.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-					"C:\\Users\\gustavo.dornelles\\Documents\\ez_core_store\\code\\EZ.Store.Mvc.Web\\Custom\\Content\\Widgets",
-					"C:\\Users\\gustavo.dornelles\\Documents\\ez_core_store\\code\\EZ.Store.Mvc.Web\\Custom\\Content",
-					"C:\\Users\\gustavo.dornelles\\Documents\\ez_core_store\\code\\EZ.Store.Mvc.Web\\Custom\\Content\\Widgets",
-					""
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"current",
-					"solr",
-					"$range",
-					"max-he",
-					"Con",
-					"console",
-					"sillerozoom",
-					".cls",
-					"asing",
-					"@import",
-					"$w.",
-					"$w",
-					"console.log",
-					"call",
-					".html",
-					"/wd/product/variation/changed",
-					"$box",
-					"close",
-					"response",
-					".class",
-					"class:",
-					"s.d.container",
-					"containerCss",
-					"simplemodal-container",
-					"buttons",
-					"100",
-					"$.modal =",
-					".wd-profile-addresses",
-					"variants",
-					"loading",
-					"60%",
-					"SetAsShipping",
-					"wd-checkout-deliveryservices",
-					"subscribe",
-					"PUBLISH",
-					"wd-checkout-ordersummary",
-					".popup",
-					"window.open",
-					"keycode",
-					"alert",
-					" ",
-					"submit",
-					"alert-",
-					"alert alert-",
-					"ajaxError",
-					".wd-checkout-ordertracking",
-					".wd-checkout-basket-discount",
-					"#widgettempmodal",
-					"/* #DESCRIPTIONS",
-					".list",
-					"flags",
-					"submitHandler",
-					"console",
-					"console,",
-					"lineHighlight",
-					"282A2E",
-					"wd-product-notifywhenavailable",
-					"modal:",
-					"submitHandler",
-					"bt-submit",
-					"bt-continue",
-					"_updatePostalCode",
-					"_updatePostalCode:",
-					"submitHandler",
-					"submit",
-					"PreRegister.PostalCode",
-					"rule.method",
-					"validator.set",
-					"settings",
-					"keyu",
-					"key",
-					"'change",
-					".change",
-					"border-radius",
-					"opac",
-					".gradient",
-					".selected",
-					"#f5f5f5",
-					"border-radius",
-					"_newAddress",
-					"{% error_summary %}",
-					"#simplemodal-container",
-					"dialog",
-					"_showErrors",
-					"js-qty",
-					"loading",
-					"wd-checkout-ordernumber",
-					"modal:",
-					"equalheight",
-					"infor",
-					".wd-browsing-grid-sorter",
-					"bt-submit",
-					"categ",
-					"#fff",
-					"white",
-					"button-wrapper",
-					".button-wrapper",
-					"#footer",
-					"footer",
-					"f8f8f8",
-					"DeliveryPostalCode",
-					"left",
-					".wd-browsing-navigationhistory .jcarousel-container-horizontal",
-					"wd-product-media-selector-carousel",
-					"wd-browsing-product-carousel",
-					".fn.jcar",
-					".t-treeview .defined > div > .t-in",
-					".t-treeview li.defined > div > a, .t-treeview .defined > div > .t-in",
-					"removeclass('hi",
-					".side",
-					".sctructureIcon .right",
-					"orderid",
-					"-tracking",
-					"tracking-",
-					"class=\"ie",
-					"startlo",
-					"savePackages",
-					".button-bar li",
-					"side-menu",
-					"css(",
-					"side-menu",
-					"css(",
-					"display",
-					"displa",
-					"getho",
-					"alert",
-					"rebuildun",
-					"rebuild"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"$plugin",
-					"ezZoom",
-					"'class':",
-					"@base-color",
-					"wd-browsing-navigationhistory"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 0.0
-			},
-			"input":
-			{
-				"height": 31.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 100.0
-			},
-			"output.jslint_result_view":
-			{
-				"height": 186.0
-			},
-			"replace":
-			{
-				"height": 62.0
-			},
-			"save_all_on_build": false,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-					[
-						"checkout.addr",
-						"Custom/Content/Widgets/checkout.addresses/wd.checkout.addresses.template"
-					],
-					[
-						"header.",
-						"Custom/Content/Themes/Default/Header.template"
-					],
-					[
-						"header",
-						"Custom/Content/Themes/Default/Header.template"
-					],
-					[
-						"colorb",
-						"Scripts/bundles/colorbox/jquery.colorbox.js"
-					],
-					[
-						"core",
-						"Scripts/core/jquery.core.widget.dialogs.js"
-					],
-					[
-						"dialog",
-						"Scripts/core/jquery.core.widget.dialogs.js"
-					],
-					[
-						"basic",
-						"Custom/Content/Themes/Default/Styles/basic.less"
-					],
-					[
-						"checkout.add",
-						"Custom/Content/Widgets/checkout.addresses/wd.checkout.addresses.template"
-					],
-					[
-						"wd.profile.adr",
-						"Custom/Content/Widgets/profile.addresses/Scripts/wd.profile.addresses.js"
-					],
-					[
-						"profile.adresse",
-						"Custom/Content/Themes/Default/profile.addresses.template"
-					],
-					[
-						"widget.",
-						"Scripts/core/jquery.core.widget.dialogs.js"
-					],
-					[
-						"area-cu",
-						"Custom/Content/Themes/Default/Styles/area-customer.less"
-					],
-					[
-						"checkout.order",
-						"Custom/Content/Widgets/checkout.ordersummary/wd.checkout.ordersummary.template"
-					],
-					[
-						"wd.profile.ad",
-						"Custom/Content/Widgets/profile.addresses/wd.profile.addresses.template"
-					],
-					[
-						"addressform",
-						"Custom/Content/Widgets/profile.addressform/Scripts/wd.profile.addressform.js"
-					],
-					[
-						"addresform",
-						"Custom/Content/Widgets/profile.addressform/Scripts/wd.profile.addressform.js"
-					],
-					[
-						"wd.produc",
-						"Custom/Content/Widgets/product.variations/wd.product.variations.template"
-					],
-					[
-						"core.va",
-						"Scripts/core/jquery.core.widget.validate.js"
-					],
-					[
-						"profile.",
-						"Custom/Content/Themes/Default/profile.orders.template"
-					],
-					[
-						"area-ch",
-						"Custom/Content/Themes/Default/Styles/area-checkout.less"
-					],
-					[
-						"profile.orde",
-						"Custom/Content/Widgets/profile.orders/wd.profile.orders.template"
-					],
-					[
-						"profile.or",
-						"Custom/Content/Themes/Default/profile.orders.template"
-					],
-					[
-						"area-c",
-						"Custom/Content/Themes/Default/Styles/area-checkout.css"
-					],
-					[
-						"core.val",
-						"Scripts/core/jquery.core.widget.validate.js"
-					],
-					[
-						"basic.less",
-						"Custom/Content/Themes/Default/Styles/basic.less"
-					],
-					[
-						"core.w",
-						"Scripts/core/jquery.core.widget.dialogs.js"
-					],
-					[
-						"addresspro",
-						"Scripts/core/jquery.core.addressprovider.js"
-					],
-					[
-						"area-cust",
-						"Custom/Content/Themes/Default/Styles/area-customer.less"
-					],
-					[
-						"oup.summar",
-						"Custom/Content/Widgets/checkout.paymentgroup.summary/wd.checkout.paymentgroup.summary.template"
-					],
-					[
-						"idenfi",
-						"Custom/Content/Themes/Default/identification.template"
-					],
-					[
-						"mixins",
-						"Custom/Content/Themes/Default/Styles/mixins.less"
-					],
-					[
-						"area-sho",
-						"Custom/Content/Themes/Default/Styles/area-shopping.less"
-					],
-					[
-						"basic.",
-						"Custom/Content/Themes/Default/Styles/basic.less"
-					],
-					[
-						"area-cus",
-						"Custom/Content/Themes/Default/Styles/area-customer.less"
-					],
-					[
-						"area-s",
-						"Custom/Content/Themes/Default/Styles/area-shopping.less"
-					],
-					[
-						"spr",
-						"Custom/Content/Themes/Default/Styles/sprite.less"
-					],
-					[
-						"checkout.orders",
-						"Custom/Content/Widgets/checkout.ordersummary/wd.checkout.ordersummary.template"
-					],
-					[
-						"core.",
-						"Scripts/core/jquery.core.widget.dialogs.js"
-					],
-					[
-						"deliverys",
-						"Custom/Content/Widgets/checkout.deliveryservices/wd.checkout.deliveryservices.template"
-					],
-					[
-						"checkout.ordertr",
-						"Custom/Content/Widgets/checkout.ordertracking/wd.checkout.ordertracking.template"
-					],
-					[
-						"navi",
-						"Custom/Content/Widgets/browsing.navigationhistory/Scripts/wd.browsing.navigationhistory.js"
-					],
-					[
-						"brows",
-						"Custom/Content/Widgets/browsing.navigationhistory/wd.browsing.navigationhistory.template"
-					],
-					[
-						"profile.re",
-						"Custom/Content/Themes/Default/profile.register.success.template"
-					],
-					[
-						"produreview",
-						"Custom/Content/Widgets/product.reviews/Scripts/wd.product.reviews.js"
-					],
-					[
-						"summaryhea",
-						"Custom/Content/Widgets/checkout.basket.summaryheader/Scripts/wd.checkout.basket.summaryheader.js"
-					],
-					[
-						"core.wid",
-						"Scripts/core/jquery.core.widget.dialogs.js"
-					],
-					[
-						"deliveryfee",
-						"Custom/Content/Widgets/product.deliveryfee/Scripts/wd.product.deliveryfee.js"
-					],
-					[
-						"core.widge",
-						"Scripts/core/jquery.core.widget.dialogs.js"
-					],
-					[
-						"widget.te",
-						"Custom/Content/Themes/Default/widget.template"
-					],
-					[
-						"area",
-						"Custom/Content/Themes/Default/Styles/area-checkout.less"
-					],
-					[
-						"profile.add",
-						"Custom/Content/Widgets/profile.addressform/wd.profile.addressform.template"
-					],
-					[
-						"widget",
-						"Custom/Content/Themes/Default/widget.template"
-					],
-					[
-						"product.line",
-						"Custom/Content/Themes/Default/product.line.template"
-					],
-					[
-						"wd.product.li",
-						"Custom/Content/Widgets/product.list/wd.product.list.template"
-					],
-					[
-						"newsletter.js",
-						"Custom/Content/Widgets/marketing.newsletter/Scripts/wd.marketing.newsletter.js"
-					],
-					[
-						"js",
-						"Scripts/jquery.password-strength.js"
-					],
-					[
-						"product.ass",
-						"Custom/Content/Widgets/product.associations/wd.product.associations.template"
-					],
-					[
-						"wd.product.pa",
-						"Custom/Content/Widgets/product.payment.options/Styles/wd.product.payment.options.css"
-					],
-					[
-						"core.wi",
-						"Scripts/core/jquery.core.widget.js"
-					],
-					[
-						"document",
-						"Scripts/document.ready.js"
-					],
-					[
-						"wd.product.v",
-						"Custom/Content/Widgets/product.variations/wd.product.variations.template"
-					],
-					[
-						"brwo",
-						"Custom/Content/Widgets/browsing.navigationhistory/wd.browsing.navigationhistory.template"
-					],
-					[
-						"checkout.te",
-						"Custom/Content/Themes/Default/checkout.customer.template"
-					],
-					[
-						"jquery.wid",
-						"Scripts/core/jquery.core.widget.js"
-					],
-					[
-						"validate",
-						"Scripts/jquery.validate.js"
-					],
-					[
-						"wd.newsletter",
-						"Custom/Content/Widgets/marketing.newsletter/wd.marketing.newsletter.template"
-					],
-					[
-						"chackout.basket.js",
-						"Custom/Content/Themes/Default/Scripts/checkout.basket.js"
-					],
-					[
-						"deliver",
-						"Custom/Content/Widgets/checkout.deliveryservices/Scripts/wd.checkout.deliveryservices.js"
-					],
-					[
-						"welcome.s",
-						"Custom/Content/Widgets/profile.welcome.shopper/welcome.shopper.data.template"
-					],
-					[
-						"profile.login",
-						"Custom/Content/Widgets/profile.login/wd.profile.login.template"
-					],
-					[
-						"checkout.bas",
-						"Custom/Content/Themes/Default/Scripts/checkout.basket.js"
-					],
-					[
-						"basket",
-						"Areas/Shopping/Views/Basket/basket.js"
-					],
-					[
-						"jquery.core",
-						"Scripts/core/jquery.core.widget.js"
-					],
-					[
-						"addresspr",
-						"Scripts/core/jquery.core.addressprovider.js"
-					],
-					[
-						"jquery.core.w",
-						"Scripts/core/jquery.core.widget.js"
-					],
-					[
-						"jquery.core.widget.vali",
-						"Scripts/core/jquery.core.widget.validate.js"
-					],
-					[
-						"core.v",
-						"Scripts/core/jquery.core.widget.validate.js"
-					],
-					[
-						"area-sh",
-						"Custom/Content/Themes/Default/Styles/area-shopping.less"
-					],
-					[
-						"checkout.p",
-						"Custom/Content/Themes/Default/checkout.payment.template"
-					],
-					[
-						"area-chec",
-						"Custom/Content/Themes/Default/Styles/area-checkout.less"
-					],
-					[
-						"checkout.pa",
-						"Custom/Content/Themes/Default/checkout.payment.template"
-					],
-					[
-						"checkout.",
-						"Custom/Content/Themes/Default/checkout.payment.template"
-					],
-					[
-						"checkout.rece",
-						"Custom/Content/Themes/Default/checkout.receipt.template"
-					],
-					[
-						"area-checkout",
-						"Custom/Content/Themes/Default/Styles/area-checkout.less"
-					],
-					[
-						"checkout.lo",
-						"Custom/Content/Themes/Default/checkout.login.template"
-					],
-					[
-						"chekout.p",
-						"Custom/Content/Themes/Default/checkout.payment.template"
-					],
-					[
-						"checkout.pay",
-						"Custom/Content/Themes/Default/checkout.payment.template"
-					],
-					[
-						"widge",
-						"Custom/Content/Themes/Default/widget.template"
-					],
-					[
-						"basic.l",
-						"Custom/Content/Themes/Default/Styles/basic.less"
-					],
-					[
-						"jquery.core.add",
-						"Scripts/core/jquery.core.addressprovider.js"
-					],
-					[
-						"checkout",
-						"Custom/Content/Themes/Default/checkout.payment.template"
-					],
-					[
-						"vars",
-						"Custom/Content/Themes/Default/Styles/vars.less"
-					],
-					[
-						"error.summ",
-						"Custom/Content/Widgets/error.summary/Scripts/wd.error.summary.js"
-					],
-					[
-						"address",
-						"Custom/Content/Themes/Default/addressform.template"
-					],
-					[
-						"deliveryser",
-						"Custom/Content/Widgets/checkout.deliveryservices/Scripts/wd.checkout.deliveryservices.js"
-					],
-					[
-						"jquery.va",
-						"Scripts/jquery.validate.js"
-					],
-					[
-						"area-che",
-						"Custom/Content/Themes/Default/Styles/area-checkout.less"
-					],
-					[
-						"check",
-						"Custom/Content/Themes/Default/checkout.basket.template"
-					],
-					[
-						"widget.tem",
-						"Custom/Content/Themes/Default/widget.template"
-					],
-					[
-						"footer.tem",
-						"Custom/Content/Themes/Default/Footer.template"
-					],
-					[
-						"footer.che",
-						"Custom/Content/Themes/Default/footer.checkout.template"
-					],
-					[
-						"simpl",
-						"Scripts/bundles/simplemodal/simplemodal.css"
-					],
-					[
-						"brand",
-						"Custom/Content/Widgets/brand.carousel/Scripts/wd.brand.carousel.js"
-					],
-					[
-						"product.reviews",
-						"Custom/Content/Widgets/product.reviews/wd.product.reviews.create.template"
-					],
-					[
-						"area-shop",
-						"Custom/Content/Themes/Default/Styles/area-shopping.less"
-					],
-					[
-						"checkout.orderdel",
-						"Custom/Content/Widgets/checkout.orderdeliveryaddress/wd.checkout.orderdeliveryaddress.template"
-					],
-					[
-						"checkou.add",
-						"Custom/Content/Widgets/checkout.addresses/wd.checkout.addresses.template"
-					],
-					[
-						"paymentgroup",
-						"Custom/Content/Widgets/checkout.paymentgroup/Styles/wd.checkout.paymentgroup.less"
-					],
-					[
-						"basi",
-						"Custom/Content/Themes/Default/Styles/basic.less"
-					],
-					[
-						"navigation.hist",
-						"Custom/Content/Widgets/browsing.navigationhistory/Scripts/wd.browsing.navigationhistory.js"
-					],
-					[
-						"footer",
-						"Custom/Content/Themes/Default/Footer.template"
-					],
-					[
-						"wd.checkout.addresses.less",
-						"Custom/Content/Widgets/checkout.addresses/Styles/wd.checkout.addresses.less"
-					],
-					[
-						"checkout.paymentmessage",
-						"Custom/Content/Widgets/checkout.paymentmessage/Scripts/wd.checkout.paymentmessage.js"
-					],
-					[
-						"header.checkout.template",
-						"Custom/Content/Themes/Default/header.checkout.template"
-					],
-					[
-						"product.list",
-						"product.list/wd.product.list.template"
-					],
-					[
-						"product.pr",
-						"product.price/wd.product.price.template"
-					],
-					[
-						"product.fe",
-						"product.featured.list/wd.product.featured.list.template"
-					],
-					[
-						"product.li",
-						"product.line/Scripts/wd.product.line.js"
-					],
-					[
-						"widget.templ",
-						"product.rating/widget.template"
-					],
-					[
-						"profile.lo",
-						"profile.login/wd.profile.login.template"
-					],
-					[
-						"jquery.meio",
-						"Scripts/jquery.meio.mask.js"
-					],
-					[
-						"sty",
-						"Content/style.css"
-					],
-					[
-						"sitelayout/",
-						"Areas/Appearance/Views/SiteLayout/Index.js"
-					],
-					[
-						"butt",
-						"Content/buttons.css"
-					],
-					[
-						"desi",
-						"Content/design-structure.css"
-					],
-					[
-						"shell.ho",
-						"Scripts/jquery.shell.holder.js"
-					],
-					[
-						"catalog/views/in",
-						"Areas/Catalog/Views/InventoryMovement/Movement.ascx"
-					],
-					[
-						"style.css",
-						"Content/style.css"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 500.0,
-				"selected_items":
-				[
-					[
-						"",
-						"/C/Users/gustavo.dornelles/Documents/EZ.Store.Mvc.Admin.sublime-project"
-					]
-				],
-				"width": 380.0
-			},
-			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 201.0,
-			"status_bar_visible": true
-		},
-		"new_window_width": 1296.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"scroll",
-						"scrollEasing"
-					],
-					[
-						"sc",
-						"scrollDuration"
-					],
-					[
-						"im",
-						"imgS"
-					],
-					[
-						"inline",
-						"inline-block"
-					],
-					[
-						"placeholde",
-						"placeholderPolyfill"
-					],
-					[
-						"get",
-						"getContext"
-					],
-					[
-						"ajax",
-						"ajaxLoaded"
-					],
-					[
-						"e",
-						"element"
-					],
-					[
-						"el",
-						"else"
-					],
-					[
-						"border",
-						"border-radius"
-					],
-					[
-						"ease",
-						"ease-out"
-					],
-					[
-						"pr",
-						"price-width"
-					],
-					[
-						"tit",
-						"title-width"
-					],
-					[
-						"cont",
-						"container-width"
-					],
-					[
-						"j",
-						"jcarousel"
-					],
-					[
-						"no",
-						"nowrap"
-					],
-					[
-						"Order",
-						"OrderPackageID"
-					],
-					[
-						"orderit",
-						"orderitemid"
-					],
-					[
-						"success",
-						"successFn"
-					],
-					[
-						"this",
-						"thisBtn"
-					],
-					[
-						"OrderS",
-						"OrderShipmentID"
-					],
-					[
-						"Or",
-						"OrderShipmentID"
-					],
-					[
-						"shipment",
-						"shipment-package"
-					],
-					[
-						"tra",
-						"TrackingNumber"
-					],
-					[
-						"product",
-						"product-quantity"
-					],
-					[
-						"shipm",
-						"shipment-package"
-					],
-					[
-						"ship",
-						"shipment-package-assembly"
-					],
-					[
-						"lo",
-						"localize"
-					],
-					[
-						"o",
-						"of"
-					],
-					[
-						"mar",
-						"margin-right"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "www/solr/script.v2.js",
-					"settings":
-					{
-						"buffer_size": 10678,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "www/solr/script.v3.js",
-					"settings":
-					{
-						"buffer_size": 12321,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "www/solr/index.html",
-					"settings":
-					{
-						"buffer_size": 1790,
-						"line_ending": "Windows",
-						"name": "<!doctype html>"
-					}
-				},
-				{
-					"file": "www/solr/styles.css",
-					"settings":
-					{
-						"buffer_size": 1884,
-						"line_ending": "Windows",
-						"name": "html, body {"
-					}
-				}
-			],
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 375.0,
-				"selected_items":
-				[
-					[
 						"ins",
 						"Package Control: Install Package"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
 					],
 					[
 						"in",
 						"Package Control: Install Package"
 					],
 					[
-						"re",
-						"Indentation: Reindent Lines"
-					],
-					[
 						"inst",
 						"Package Control: Install Package"
 					],
@@ -1437,6 +271,18 @@
 			},
 			"file_history":
 			[
+				"/C/Users/gustavo.dornelles/Documents/www/solr/styles.css",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Scripts/jquery.ba-tinypubsub.min.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/Styles/area-shopping.less",
+				"/C/Users/gustavo.dornelles/Documents/www/nucleo/js/nucleo.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/Left.template",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.type.range/wd.facet.type.range.template",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.banner/wd.marketing.banner.template",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/facet.group/Styles/wd.facet.group.css",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/db/Deploy/Startup/Widgets/browsing.navigationhistory.sql",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.newsletter/Scripts/wd.marketing.newsletter.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/error.summary/Scripts/wd.error.summary.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/db/Deploy/Startup/Widgets/product.medias.sql",
 				"/C/Users/gustavo.dornelles/AppData/Roaming/Sublime Text 2/Packages/BracketHighlighter/BracketHighlighter.sublime-settings",
 				"/C/Users/gustavo.dornelles/AppData/Roaming/Sublime Text 2/Packages/Color Scheme - Default/GrandsonOfObsidian.tmTheme",
 				"/C/Users/gustavo.dornelles/Documents/www/solr/script.v3.js",
@@ -1474,7 +320,6 @@
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/Styles/vars.less",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.banner/Styles/wd.marketing.banner.less",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Scripts/core/jquery.core.widget.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.banner/wd.marketing.banner.template",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.notifymewhenavailable/Scripts/wd.product.notifymewhenavailable.js",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.welcome.shopper/Scripts/wd.profile.welcome.shopper.js",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/success.message/Scripts/wd.success.message.js",
@@ -1519,7 +364,6 @@
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.reviews/Scripts/wd.product.reviews.js",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.addresses/Scripts/wd.profile.addresses.js",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.login/Scripts/wd.profile.login.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.newsletter/Scripts/wd.marketing.newsletter.js",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.welcome.shopper/welcome.shopper.data.template",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.addresses/Scripts/wd.checkout.addresses.js",
 				"/C/Users/gustavo.dornelles/Documents/www/github/sillero.github.com/CNAME",
@@ -1544,7 +388,6 @@
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.addressform/Scripts/wd.profile.addressform.js",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.payment.pagamentodigital/wd.checkout.payment.pagamentodigital.template",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.payment/Scripts/wd.checkout.payment.js",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/error.summary/Scripts/wd.error.summary.js",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.payment/Styles/wd.checkout.payment.css",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.payment.pagamentodigital/Styles/wd.checkout.payment.pagamentodigital.css",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.ordersummary/Styles/wd.checkout.ordersummary.less",
@@ -1555,16 +398,7 @@
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.orders/wd.profile.orders.template",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.basket.summaryheader/Scripts/wd.checkout.basket.summaryheader.js",
 				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/profile.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/checkout.delivery.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.deliveryservices/wd.checkout.deliveryservices.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.deliveryservices/delivery.options.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/Styles/area-checkout.less",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.register/wd.profile.register.addressdata.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/profile.orderdetail.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.orderpayment/wd.checkout.orderpayment.template",
-				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/Styles/area-checkout.css",
-				"/C/Users/gustavo.dornelles/Documents/_PROJETOS/netlens.com.br/trunk/code/site/_JS/01-store.js",
-				"/C/Users/gustavo.dornelles/Desktop/sortVariations.js"
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/checkout.delivery.template"
 			],
 			"find":
 			{
@@ -1733,491 +567,6 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"groups":
-			[
-				{
-					"selected": 1,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "www/solr/script.v2.js",
-							"settings":
-							{
-								"buffer_size": 10678,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										927,
-										927
-									]
-								],
-								"settings":
-								{
-									"annotations":
-									[
-										"TODO",
-										"README",
-										"FIXME"
-									],
-									"csslint_options":
-									{
-										"adjoining-classes": "warning",
-										"box-model": true,
-										"box-sizing": "warning",
-										"compatible-vendor-prefixes": "warning",
-										"display-property-grouping": true,
-										"duplicate-background-images": "warning",
-										"duplicate-properties": true,
-										"empty-rules": true,
-										"errors": true,
-										"fallback-colors": "warning",
-										"floats": "warning",
-										"font-faces": "warning",
-										"font-sizes": "warning",
-										"gradients": "warning",
-										"ids": "warning",
-										"import": "warning",
-										"important": "warning",
-										"known-properties": true,
-										"outline-none": "warning",
-										"overqualified-elements": "warning",
-										"qualified-headings": "warning",
-										"regex-selectors": "warning",
-										"rules-count": "warning",
-										"shorthand": "warning",
-										"star-property-hack": "warning",
-										"text-indent": "warning",
-										"underscore-property-hack": "warning",
-										"unique-headings": "warning",
-										"universal-selector": "warning",
-										"vendor-prefix": true,
-										"zero-units": "warning"
-									},
-									"encoding_helper_confidence": 0.99,
-									"encoding_helper_encoding": "UTF-8",
-									"encoding_helper_encoding_sublime": "UTF-8",
-									"gjslint_ignore":
-									[
-										110.0
-									],
-									"gjslint_options":
-									[
-									],
-									"javascript_linter": "jshint",
-									"jshint_options":
-									{
-										"browser": true,
-										"evil": true,
-										"regexdash": true,
-										"sub": true,
-										"trailing": true,
-										"wsh": true
-									},
-									"pep8": true,
-									"pep8_ignore":
-									[
-										"E501"
-									],
-									"perl_linter": "perlcritic",
-									"pyflakes_ignore":
-									[
-									],
-									"pyflakes_ignore_import_*": true,
-									"sublimelinter": true,
-									"sublimelinter_delay": 2.0,
-									"sublimelinter_disable":
-									[
-									],
-									"sublimelinter_executable_map":
-									{
-									},
-									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": false,
-									"sublimelinter_mark_style": "outline",
-									"sublimelinter_notes": false,
-									"sublimelinter_objj_check_ascii": false,
-									"sublimelinter_popup_errors_on_save": false,
-									"sublimelinter_syntax_map":
-									{
-										"C++": "c",
-										"Python Django": "python",
-										"Ruby on Rails": "ruby"
-									},
-									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 315.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "www/solr/script.v3.js",
-							"settings":
-							{
-								"buffer_size": 12321,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										651,
-										651
-									]
-								],
-								"settings":
-								{
-									"annotations":
-									[
-										"TODO",
-										"README",
-										"FIXME"
-									],
-									"csslint_options":
-									{
-										"adjoining-classes": "warning",
-										"box-model": true,
-										"box-sizing": "warning",
-										"compatible-vendor-prefixes": "warning",
-										"display-property-grouping": true,
-										"duplicate-background-images": "warning",
-										"duplicate-properties": true,
-										"empty-rules": true,
-										"errors": true,
-										"fallback-colors": "warning",
-										"floats": "warning",
-										"font-faces": "warning",
-										"font-sizes": "warning",
-										"gradients": "warning",
-										"ids": "warning",
-										"import": "warning",
-										"important": "warning",
-										"known-properties": true,
-										"outline-none": "warning",
-										"overqualified-elements": "warning",
-										"qualified-headings": "warning",
-										"regex-selectors": "warning",
-										"rules-count": "warning",
-										"shorthand": "warning",
-										"star-property-hack": "warning",
-										"text-indent": "warning",
-										"underscore-property-hack": "warning",
-										"unique-headings": "warning",
-										"universal-selector": "warning",
-										"vendor-prefix": true,
-										"zero-units": "warning"
-									},
-									"encoding_helper_confidence": 0.99,
-									"encoding_helper_encoding": "UTF-8",
-									"encoding_helper_encoding_sublime": "UTF-8",
-									"gjslint_ignore":
-									[
-										110.0
-									],
-									"gjslint_options":
-									[
-									],
-									"javascript_linter": "jshint",
-									"jshint_options":
-									{
-										"browser": true,
-										"evil": true,
-										"regexdash": true,
-										"sub": true,
-										"trailing": true,
-										"wsh": true
-									},
-									"pep8": true,
-									"pep8_ignore":
-									[
-										"E501"
-									],
-									"perl_linter": "perlcritic",
-									"pyflakes_ignore":
-									[
-									],
-									"pyflakes_ignore_import_*": true,
-									"sublimelinter": true,
-									"sublimelinter_delay": 2.0,
-									"sublimelinter_disable":
-									[
-									],
-									"sublimelinter_executable_map":
-									{
-									},
-									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": false,
-									"sublimelinter_mark_style": "outline",
-									"sublimelinter_notes": false,
-									"sublimelinter_objj_check_ascii": false,
-									"sublimelinter_popup_errors_on_save": false,
-									"sublimelinter_syntax_map":
-									{
-										"C++": "c",
-										"Python Django": "python",
-										"Ruby on Rails": "ruby"
-									},
-									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "www/solr/index.html",
-							"settings":
-							{
-								"buffer_size": 1790,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1788,
-										1788
-									]
-								],
-								"settings":
-								{
-									"annotations":
-									[
-										"TODO",
-										"README",
-										"FIXME"
-									],
-									"auto_name": "<!doctype html>",
-									"csslint_options":
-									{
-										"adjoining-classes": "warning",
-										"box-model": true,
-										"box-sizing": "warning",
-										"compatible-vendor-prefixes": "warning",
-										"display-property-grouping": true,
-										"duplicate-background-images": "warning",
-										"duplicate-properties": true,
-										"empty-rules": true,
-										"errors": true,
-										"fallback-colors": "warning",
-										"floats": "warning",
-										"font-faces": "warning",
-										"font-sizes": "warning",
-										"gradients": "warning",
-										"ids": "warning",
-										"import": "warning",
-										"important": "warning",
-										"known-properties": true,
-										"outline-none": "warning",
-										"overqualified-elements": "warning",
-										"qualified-headings": "warning",
-										"regex-selectors": "warning",
-										"rules-count": "warning",
-										"shorthand": "warning",
-										"star-property-hack": "warning",
-										"text-indent": "warning",
-										"underscore-property-hack": "warning",
-										"unique-headings": "warning",
-										"universal-selector": "warning",
-										"vendor-prefix": true,
-										"zero-units": "warning"
-									},
-									"encoding_helper_confidence": 0.505,
-									"encoding_helper_encoding": "UTF-8",
-									"encoding_helper_encoding_sublime": "UTF-8",
-									"gjslint_ignore":
-									[
-										110.0
-									],
-									"gjslint_options":
-									[
-									],
-									"javascript_linter": "jshint",
-									"jshint_options":
-									{
-										"browser": true,
-										"evil": true,
-										"regexdash": true,
-										"sub": true,
-										"trailing": true,
-										"wsh": true
-									},
-									"pep8": true,
-									"pep8_ignore":
-									[
-										"E501"
-									],
-									"perl_linter": "perlcritic",
-									"pyflakes_ignore":
-									[
-									],
-									"pyflakes_ignore_import_*": true,
-									"sublimelinter": true,
-									"sublimelinter_delay": 2.0,
-									"sublimelinter_disable":
-									[
-									],
-									"sublimelinter_executable_map":
-									{
-									},
-									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": false,
-									"sublimelinter_mark_style": "outline",
-									"sublimelinter_notes": false,
-									"sublimelinter_objj_check_ascii": false,
-									"sublimelinter_popup_errors_on_save": false,
-									"sublimelinter_syntax_map":
-									{
-										"C++": "c",
-										"Python Django": "python",
-										"Ruby on Rails": "ruby"
-									},
-									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/HTML/HTML.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 540.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "www/solr/styles.css",
-							"settings":
-							{
-								"buffer_size": 1884,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1216,
-										1216
-									]
-								],
-								"settings":
-								{
-									"annotations":
-									[
-										"TODO",
-										"README",
-										"FIXME"
-									],
-									"auto_name": "html, body {",
-									"csslint_options":
-									{
-										"adjoining-classes": "warning",
-										"box-model": true,
-										"box-sizing": "warning",
-										"compatible-vendor-prefixes": "warning",
-										"display-property-grouping": true,
-										"duplicate-background-images": "warning",
-										"duplicate-properties": true,
-										"empty-rules": true,
-										"errors": true,
-										"fallback-colors": "warning",
-										"floats": "warning",
-										"font-faces": "warning",
-										"font-sizes": "warning",
-										"gradients": "warning",
-										"ids": "warning",
-										"import": "warning",
-										"important": "warning",
-										"known-properties": true,
-										"outline-none": "warning",
-										"overqualified-elements": "warning",
-										"qualified-headings": "warning",
-										"regex-selectors": "warning",
-										"rules-count": "warning",
-										"shorthand": "warning",
-										"star-property-hack": "warning",
-										"text-indent": "warning",
-										"underscore-property-hack": "warning",
-										"unique-headings": "warning",
-										"universal-selector": "warning",
-										"vendor-prefix": true,
-										"zero-units": "warning"
-									},
-									"encoding_helper_confidence": 0.505,
-									"encoding_helper_encoding": "UTF-8",
-									"encoding_helper_encoding_sublime": "UTF-8",
-									"gjslint_ignore":
-									[
-										110.0
-									],
-									"gjslint_options":
-									[
-									],
-									"javascript_linter": "jshint",
-									"jshint_options":
-									{
-										"browser": true,
-										"evil": true,
-										"regexdash": true,
-										"sub": true,
-										"trailing": true,
-										"wsh": true
-									},
-									"pep8": true,
-									"pep8_ignore":
-									[
-										"E501"
-									],
-									"perl_linter": "perlcritic",
-									"pyflakes_ignore":
-									[
-									],
-									"pyflakes_ignore_import_*": true,
-									"sublimelinter": true,
-									"sublimelinter_delay": 2.0,
-									"sublimelinter_disable":
-									[
-									],
-									"sublimelinter_executable_map":
-									{
-									},
-									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": false,
-									"sublimelinter_mark_style": "outline",
-									"sublimelinter_notes": false,
-									"sublimelinter_objj_check_ascii": false,
-									"sublimelinter_popup_errors_on_save": false,
-									"sublimelinter_syntax_map":
-									{
-										"C++": "c",
-										"Python Django": "python",
-										"Ruby on Rails": "ruby"
-									},
-									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/CSS/CSS.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 810.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
-					]
-				}
-			],
 			"incremental_find":
 			{
 				"height": 0.0
@@ -2235,11 +584,18 @@
 						0,
 						1,
 						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
 					]
 				],
 				"cols":
 				[
 					0.0,
+					0.446390278771,
 					1.0
 				],
 				"rows":
@@ -2257,7 +613,6 @@
 			{
 				"height": 186.0
 			},
-			"position": "0,2,3,-1,-1,-1,-1,784,235,242,1547",
 			"replace":
 			{
 				"height": 62.0
@@ -2268,6 +623,14 @@
 				"height": 0.0,
 				"selected_items":
 				[
+					[
+						"left.",
+						"Custom/Content/Themes/Default/Left.template"
+					],
+					[
+						"area-s",
+						"Custom/Content/Themes/Default/Styles/area-shopping.less"
+					],
 					[
 						"checkout.addr",
 						"Custom/Content/Widgets/checkout.addresses/wd.checkout.addresses.template"
@@ -2403,10 +766,6 @@
 					[
 						"area-cus",
 						"Custom/Content/Themes/Default/Styles/area-customer.less"
-					],
-					[
-						"area-s",
-						"Custom/Content/Themes/Default/Styles/area-shopping.less"
 					],
 					[
 						"spr",
@@ -2775,10 +1134,6 @@
 					[
 						"catalog/views/in",
 						"Areas/Catalog/Views/InventoryMovement/Movement.ascx"
-					],
-					[
-						"style.css",
-						"Content/style.css"
 					]
 				],
 				"width": 0.0
@@ -2800,20 +1155,1754 @@
 			"show_tabs": true,
 			"side_bar_visible": true,
 			"side_bar_width": 201.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1296.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"checked",
+						"checkedCount"
+					],
+					[
+						"font-",
+						"font-style"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"Ve",
+						"Verdana, Geneva, Arial, Helvetica, sans-serif"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"e",
+						"t-grid-edit"
+					],
+					[
+						"pack",
+						"packages_loaded"
+					],
+					[
+						"data-",
+						"data-baseroutename"
+					],
+					[
+						"placeholde",
+						"placeholderPolyfill"
+					],
+					[
+						"get",
+						"getContext"
+					],
+					[
+						"ajax",
+						"ajaxLoaded"
+					],
+					[
+						"el",
+						"else"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"ease",
+						"ease-out"
+					],
+					[
+						"pr",
+						"price-width"
+					],
+					[
+						"tit",
+						"title-width"
+					],
+					[
+						"cont",
+						"container-width"
+					],
+					[
+						"j",
+						"jcarousel"
+					],
+					[
+						"no",
+						"nowrap"
+					],
+					[
+						"Order",
+						"OrderPackageID"
+					],
+					[
+						"orderit",
+						"orderitemid"
+					],
+					[
+						"success",
+						"successFn"
+					],
+					[
+						"this",
+						"thisBtn"
+					],
+					[
+						"OrderS",
+						"OrderShipmentID"
+					],
+					[
+						"Or",
+						"OrderShipmentID"
+					],
+					[
+						"shipment",
+						"shipment-package"
+					],
+					[
+						"tra",
+						"TrackingNumber"
+					],
+					[
+						"product",
+						"product-quantity"
+					],
+					[
+						"shipm",
+						"shipment-package"
+					],
+					[
+						"ship",
+						"shipment-package-assembly"
+					],
+					[
+						"lo",
+						"localize"
+					],
+					[
+						"o",
+						"of"
+					],
+					[
+						"mar",
+						"margin-right"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "_EZ_Manager/code/EZ.Manager.Admin/Content/template_default/css/screen.css",
+					"settings":
+					{
+						"buffer_size": 33188,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "_EZ_Manager/code/EZ.Manager.Admin/Views/Quotation/View.aspx",
+					"settings":
+					{
+						"buffer_size": 17122,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "_EZ_Manager/code/EZ.Manager.Admin/Views/Quotation/View.js",
+					"settings":
+					{
+						"buffer_size": 2053,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "_EZ_Manager/code/EZ.Manager.Admin/Views/Lead/Save.aspx",
+					"settings":
+					{
+						"buffer_size": 13561,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "_EZ_Manager/code/EZ.Manager.Admin/Views/Lead/Save.js",
+					"settings":
+					{
+						"buffer_size": 6141,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						"re",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"rei",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"reinden",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"inde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"lis",
+						"Package Control: List Packages"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"linter",
+						"Preferences: JSLint Settings – User"
+					],
+					[
+						"jsh",
+						"JSHint: Linter"
+					],
+					[
+						"js",
+						"JSHint: Linter"
+					],
+					[
+						"Insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 514.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/gustavo.dornelles/Documents/_EZ_Manager/code/EZ.Manager.Admin/Content/template_default/js/jquery/custom_jquery.js",
+				"/C/Users/gustavo.dornelles/Documents/_EZ_Manager/code/EZ.Manager.Admin/Views/Quotation/Index.js",
+				"/C/Users/gustavo.dornelles/Documents/_EZ_Manager/code/EZ.Manager.Admin/Views/Store/Index.aspx",
+				"/C/Users/gustavo.dornelles/Documents/_EZ_Manager/code/EZ.Manager.Admin/Views/Store/Index.js",
+				"/C/Users/gustavo.dornelles/Documents/_EZ_Manager/code/EZ.Manager.Admin/Views/Shared/Site.Master",
+				"/C/Users/gustavo.dornelles/Documents/_EZ_Manager/code/EZ.Manager.Admin/Views/Shared/Menu.ascx",
+				"//EZSTORAGE-01/Farm.CoreASP/IIS.Applications/ezstore/core/dev/daniel.mendez/site/Painel_Meus_Pedidos_Visualizar.asp",
+				"/C/Users/gustavo.dornelles/Desktop/progress-status.html",
+				"/C/Users/gustavo.dornelles/Documents/www/nucleo/index.html",
+				"/C/Users/gustavo.dornelles/Documents/www/nucleo/js/boot.js",
+				"/C/Users/gustavo.dornelles/Documents/www/nucleo/js/nucleo.js",
+				"/C/Users/gustavo.dornelles/Documents/www/nucleo/js/widgets/tools/main.js",
+				"/C/Users/gustavo.dornelles/Documents/www/nucleo/js/widgets/requiredWidget/main.js",
+				"/C/Users/gustavo.dornelles/Documents/www/nucleo/js/configuration.php",
+				"/C/Users/gustavo.dornelles/Documents/www/nucleo/js/widgets/requiredWidget/package.json",
+				"/C/Users/gustavo.dornelles/Documents/www/nucleo/js/widgets/tools/package.json",
+				"/C/Users/gustavo.dornelles/Documents/www/nucleo/css/main.css",
+				"/C/Users/gustavo.dornelles/Downloads/extension_0_2/escrollbars.css",
+				"/C/Users/gustavo.dornelles/Downloads/extension_0_2/manifest.json",
+				"/C/Users/gustavo.dornelles/AppData/Local/Google/Chrome/User Data/Default/Extensions/jfichaompnhpmlpjhcjebedbgaeoeple/0.2_0/escrollbars.css",
+				"/C/Users/gustavo.dornelles/AppData/Local/Temp/Rar$DI64.552/escrollbars.css",
+				"/C/Users/gustavo.dornelles/Documents/www/nucleo/js/tools/main.js",
+				"/C/Users/gustavo.dornelles/Documents/www/nucleo/js/tools.js",
+				"/C/Users/gustavo.dornelles/Documents/www/nucleo/js/main.js",
+				"/C/Users/gustavo.dornelles/Documents/www/nucleo/js/plugins.js",
+				"/C/Users/gustavo.dornelles/Documents/www/nucleo/js/configuration.json",
+				"/C/Users/gustavo.dornelles/AppData/Local/Temp/Rar$DI26.280/main.js",
+				"/C/Users/gustavo.dornelles/AppData/Local/Temp/Rar$DI31.280/app.build.js",
+				"/C/Users/gustavo.dornelles/AppData/Local/Temp/Rar$DI25.280/require-jquery.js",
+				"/C/Users/gustavo.dornelles/Documents/www/nucleo/css/font-awesome.css",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Custom/Content/Widgets/product.medias.displayer/Styles/wd.product.medias.displayer.css",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Areas/Appearance/Views/SiteLayout/Index.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Content/style.css",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Areas/Appearance/Views/SiteLayout/Index.aspx",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Areas/Sales/Views/Order/Save.aspx",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Areas/CMS/Views/AssetsCfg/Index.aspx",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Scripts/jquery.shell.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Scripts/jquery.actiondialog.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Areas/Sales/Views/OrderStatus/Save.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Scripts/jquery.colorpicker.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Areas/Configuration/Views/Workflow/WorkflowTaskGroup.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Scripts/jquery.actiondata.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Areas/Configuration/Views/Workflow/Save.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Content/list.css",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Areas/Sales/Views/Order/Save.js",
+				"/C/Users/gustavo.dornelles/Downloads/TalksAll.rdf",
+				"/C/Users/gustavo.dornelles/Downloads/TalksAll.ics",
+				"/C/Users/gustavo.dornelles/Downloads/allevents (2).ics",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Areas/Shell/Views/Security/Logon.aspx",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Content/login.css",
+				"/C/Users/gustavo.dornelles/Documents/www/h5bp-mobile-boilerplate-stripped/index.html",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Areas/CMS/Views/Assets/save.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Scripts/filesystempicker.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Helpers/RegisterAssetsHelper.cs",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Areas/Sales/Views/Order/Index.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Scripts/jquery.shell.picker2.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Scripts/jquery.shell.holder.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Areas/Sales/Views/Order/General.ascx",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Areas/Catalog/Views/InventoryMovement/save.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Scripts/jquery.cookie.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Scripts/jquery-1.6.2.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Areas/Catalog/Views/StockKeepUnit/Pricing.ascx",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Areas/Catalog/Views/Product/Pricing.ascx",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Areas/Catalog/Views/StockKeepUnit/Pricing.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Areas/Catalog/Views/Product/Shipping.ascx",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Views/login.htm",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Scripts/utils.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Scripts/document.ready.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Areas/Catalog/Views/Category/Save.aspx",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Areas/Configuration/Views/PaymentMethod/SaveOnSite.aspx",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Areas/Configuration/Views/PaymentMethod/PaymentMethods.ascx",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Scripts/jquery.swfobject-1.1.1.min.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Areas/Catalog/Views/Warehouse/save.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Areas/Catalog/Views/Warehouse/Save.aspx",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Areas/Profile/Views/Customer/SaveAddress.aspx",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Areas/Catalog/Views/Product/Medias.ascx",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Areas/Catalog/Views/Product/Medias.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Content/medias.css",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Scripts/Uploadify/uploadify.css",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Content/Uploadify/uploadify.css",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Content/uploadify.css",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Areas/Catalog/Views/Product/Pricing.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Admin/Scripts/content.ready.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.basket.summaryheader/wd.checkout.basket.summaryheader.template",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.basket.summaryheader/Scripts/wd.checkout.basket.summaryheader.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/browsing.navigationhistory/wd.browsing.navigationhistory.template",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/browsing.navigationhistory/Scripts/wd.browsing.navigationhistory.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Scripts/core/jquery.core.widget.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Scripts/core/jquery.core.widget.dialogs.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.payment.options/Styles/wd.product.payment.options.css",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.payment.options/Scripts/wd.product.payment.options.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/checkout.customer.template",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.addresses/wd.checkout.addresses.template",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.welcome.shopper/Scripts/wd.profile.welcome.shopper.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.welcome.shopper/welcome.shopper.data.template",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Scripts/core/jquery.core.widget.validate.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Scripts/jquery.validate.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.newsletter/wd.marketing.newsletter.template",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/marketing.newsletter/Scripts/wd.marketing.newsletter.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.search/Scripts/wd.product.search.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.search/wd.product.search.template",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Scripts/document.ready.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/Header.template",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.addresses/Scripts/wd.checkout.addresses.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.reviews/Styles/wd.product.reviews.less",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.reviews/Scripts/wd.product.reviews.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/product.reviews.create/Scripts/wd.product.reviews.create.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.basket.deliveryoptions/wd.checkout.basket.deliveryoptions.template",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.basket/Scripts/wd.checkout.basket.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/Scripts/checkout.basket.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.register/wd.profile.register.addressdata.template",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.register/wd.profile.register.template",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.register/Styles/wd.profile.register.css",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.register/Styles/wd.profile.register.less",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/Styles/area-shopping.less",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/Styles/basic.less",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.basket.summaryheader/Styles/wd.checkout.basket.summaryheader.less",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.register/wd.profile.register.customerdata.template",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/db/Deploy/Changes/Scripts/482-SCRIPT_checkout.basket.summaryheader-title.sql",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/db/Deploy/Changes/Scripts/481-SCRIPT_checkout.basket.summaryheader.sql",
+				"/C/Users/gustavo.dornelles/Desktop/checkout.basket.summaryheader-title.sql",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/profile.register.template",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Themes/Default/register.template",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.deliveryservices/Scripts/wd.checkout.deliveryservices.js",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.addresses/new.address.template",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/checkout.deliveryservices/delivery.options.template",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Custom/Content/Widgets/profile.login/wd.profile.login.template",
+				"/C/Users/gustavo.dornelles/Documents/ez_core_store/code/EZ.Store.Mvc.Web/Areas/Shopping/Views/Basket/basket.js"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"*.js",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"</span>\n            </li>",
+					"<span class=\"value\">",
+					"<span class=\"label\">",
+					".nav li",
+					".select_sub",
+					"#logo",
+					"});\n",
+					"updatei",
+					"update",
+					"lpListRefresh",
+					"order-info-status",
+					"fn.simpleColor",
+					"13:1",
+					"== 13)",
+					"13)",
+					"13",
+					"oracle",
+					"conso",
+					"ajax",
+					"actiondata",
+					"TextBoxFor",
+					"showstatus",
+					"message",
+					"showstatus",
+					"bind:",
+					"js-decimal-input",
+					"simple-list",
+					"addMedia",
+					"DecimalInputFor",
+					"mask",
+					"modal:",
+					"submitHandler",
+					"bt-submit",
+					"bt-continue",
+					"_updatePostalCode",
+					"_updatePostalCode:",
+					"submitHandler",
+					"submit",
+					"PreRegister.PostalCode",
+					"rule.method",
+					"validator.set",
+					"settings",
+					"keyu",
+					"key",
+					"'change",
+					".change",
+					"border-radius",
+					"opac",
+					".gradient",
+					".selected",
+					"#f5f5f5",
+					"border-radius",
+					"_newAddress",
+					"{% error_summary %}",
+					"#simplemodal-container",
+					"dialog",
+					"_showErrors",
+					"js-qty",
+					"loading",
+					"wd-checkout-ordernumber",
+					"modal:",
+					"equalheight",
+					"infor",
+					".wd-browsing-grid-sorter",
+					"bt-submit",
+					"categ",
+					"#fff",
+					"white",
+					"button-wrapper",
+					".button-wrapper",
+					"#footer",
+					"footer",
+					"f8f8f8",
+					"DeliveryPostalCode",
+					"left",
+					".wd-browsing-navigationhistory .jcarousel-container-horizontal",
+					"wd-product-media-selector-carousel",
+					"wd-browsing-product-carousel",
+					".fn.jcar",
+					".t-treeview .defined > div > .t-in",
+					".t-treeview li.defined > div > a, .t-treeview .defined > div > .t-in",
+					"removeclass('hi",
+					".side",
+					".sctructureIcon .right",
+					"orderid",
+					"-tracking",
+					"tracking-",
+					"class=\"ie",
+					"startlo",
+					"savePackages",
+					".button-bar li",
+					"side-menu",
+					"css(",
+					"side-menu",
+					"css(",
+					"display",
+					"displa",
+					"getho",
+					"alert",
+					"rebuildun",
+					"rebuild",
+					"hide",
+					"destroy'",
+					"top.",
+					"top",
+					".build",
+					"$thisBtn",
+					"Order_Shipment_Release",
+					"cancel-shipment-release",
+					"_navi",
+					"_navigate",
+					".ajax",
+					"mark",
+					"$sil",
+					"_rendergr",
+					"_initg",
+					"paginate(",
+					"_Navigate",
+					"147",
+					"dialog(",
+					"oracle:",
+					"el:",
+					"data('template')",
+					"locale",
+					"parseint",
+					"radix",
+					"height",
+					"webshims"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"</span>\n                </div>\n            </li>",
+					"    <span class=\"value\">",
+					"<div class=\"wrapper\">\n                    <span class=\"label\">",
+					"@base-color",
+					"wd-browsing-navigationhistory"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "_EZ_Manager/code/EZ.Manager.Admin/Content/template_default/css/screen.css",
+							"settings":
+							{
+								"buffer_size": 33188,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										33118,
+										33118
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"encoding_helper_confidence": 1.0,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_helper_encoding_sublime": "UTF-8",
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 25972.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "_EZ_Manager/code/EZ.Manager.Admin/Views/Quotation/View.aspx",
+							"settings":
+							{
+								"buffer_size": 17122,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5868,
+										5850
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"encoding_helper_confidence": 1.0,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_helper_encoding_sublime": "UTF-8 with BOM",
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1629.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "_EZ_Manager/code/EZ.Manager.Admin/Views/Quotation/View.js",
+							"settings":
+							{
+								"buffer_size": 2053,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										13,
+										13
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"encoding_helper_confidence": 1.0,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_helper_encoding_sublime": "UTF-8",
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "_EZ_Manager/code/EZ.Manager.Admin/Views/Lead/Save.aspx",
+							"settings":
+							{
+								"buffer_size": 13561,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9410,
+										9410
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"encoding_helper_confidence": 1.0,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_helper_encoding_sublime": "UTF-8 with BOM",
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 3264.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "_EZ_Manager/code/EZ.Manager.Admin/Views/Lead/Save.js",
+							"settings":
+							{
+								"buffer_size": 6141,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"encoding_helper_confidence": 1.0,
+									"encoding_helper_encoding": "UTF-8",
+									"encoding_helper_encoding_sublime": "UTF-8 with BOM",
+									"gjslint_ignore":
+									[
+										110.0
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2.0,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 159.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 100.0
+			},
+			"output.jslint_result_view":
+			{
+				"height": 186.0
+			},
+			"position": "0,2,3,-1,-1,-1,-1,784,235,242,1547",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": false,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"custom_j",
+						"Content/template_default/js/jquery/custom_jquery.js"
+					],
+					[
+						"list",
+						"Content/list.css"
+					],
+					[
+						"stylc",
+						"Content/style.css"
+					],
+					[
+						"style.css",
+						"Content/style.css"
+					],
+					[
+						"login.css",
+						"Content/login.css"
+					],
+					[
+						"logons",
+						"Areas/Shell/Views/Security/Logon.aspx"
+					],
+					[
+						"register",
+						"Helpers/RegisterAssetsHelper.cs"
+					],
+					[
+						"picker2",
+						"Scripts/jquery.shell.picker2.js"
+					],
+					[
+						"jquery.hol",
+						"Scripts/jquery.shell.holder.js"
+					],
+					[
+						"jquery.shell",
+						"Scripts/jquery.shell.js"
+					],
+					[
+						"shell.h",
+						"Scripts/jquery.shell.holder.js"
+					],
+					[
+						"jquery.shel",
+						"Scripts/jquery.shell.js"
+					],
+					[
+						"logon",
+						"Areas/Shell/Views/Security/Logon.aspx"
+					],
+					[
+						"shell.ho",
+						"Scripts/jquery.shell.holder.js"
+					],
+					[
+						"shell.holder",
+						"Scripts/jquery.shell.holder.js"
+					],
+					[
+						"style.",
+						"Content/style.css"
+					],
+					[
+						"medias.css",
+						"Content/medias.css"
+					],
+					[
+						"uplo",
+						"Scripts/Uploadify/uploadify.css"
+					],
+					[
+						"upload",
+						"Content/Uploadify/uploadify.css"
+					],
+					[
+						"uploa",
+						"Content/uploadify.css"
+					],
+					[
+						"cont",
+						"Scripts/content.ready.js"
+					],
+					[
+						"brwo",
+						"Custom/Content/Widgets/browsing.navigationhistory/wd.browsing.navigationhistory.template"
+					],
+					[
+						"checkout.te",
+						"Custom/Content/Themes/Default/checkout.customer.template"
+					],
+					[
+						"jquery.wid",
+						"Scripts/core/jquery.core.widget.js"
+					],
+					[
+						"validate",
+						"Scripts/jquery.validate.js"
+					],
+					[
+						"core.val",
+						"Scripts/core/jquery.core.widget.validate.js"
+					],
+					[
+						"wd.newsletter",
+						"Custom/Content/Widgets/marketing.newsletter/wd.marketing.newsletter.template"
+					],
+					[
+						"chackout.basket.js",
+						"Custom/Content/Themes/Default/Scripts/checkout.basket.js"
+					],
+					[
+						"checkout.add",
+						"Custom/Content/Widgets/checkout.addresses/Scripts/wd.checkout.addresses.js"
+					],
+					[
+						"basic",
+						"Custom/Content/Themes/Default/Styles/basic.less"
+					],
+					[
+						"area-s",
+						"Custom/Content/Themes/Default/Styles/area-shopping.less"
+					],
+					[
+						"deliver",
+						"Custom/Content/Widgets/checkout.deliveryservices/Scripts/wd.checkout.deliveryservices.js"
+					],
+					[
+						"welcome.s",
+						"Custom/Content/Widgets/profile.welcome.shopper/welcome.shopper.data.template"
+					],
+					[
+						"profile.login",
+						"Custom/Content/Widgets/profile.login/wd.profile.login.template"
+					],
+					[
+						"checkout.bas",
+						"Custom/Content/Themes/Default/Scripts/checkout.basket.js"
+					],
+					[
+						"basket",
+						"Areas/Shopping/Views/Basket/basket.js"
+					],
+					[
+						"jquery.core",
+						"Scripts/core/jquery.core.widget.js"
+					],
+					[
+						"addresspr",
+						"Scripts/core/jquery.core.addressprovider.js"
+					],
+					[
+						"jquery.core.w",
+						"Scripts/core/jquery.core.widget.js"
+					],
+					[
+						"jquery.core.widget.vali",
+						"Scripts/core/jquery.core.widget.validate.js"
+					],
+					[
+						"core.v",
+						"Scripts/core/jquery.core.widget.validate.js"
+					],
+					[
+						"area-c",
+						"Custom/Content/Themes/Default/Styles/area-checkout.less"
+					],
+					[
+						"area-cu",
+						"Custom/Content/Themes/Default/Styles/area-customer.less"
+					],
+					[
+						"area-sh",
+						"Custom/Content/Themes/Default/Styles/area-shopping.less"
+					],
+					[
+						"checkout.p",
+						"Custom/Content/Themes/Default/checkout.payment.template"
+					],
+					[
+						"area-chec",
+						"Custom/Content/Themes/Default/Styles/area-checkout.less"
+					],
+					[
+						"checkout.pa",
+						"Custom/Content/Themes/Default/checkout.payment.template"
+					],
+					[
+						"checkout.",
+						"Custom/Content/Themes/Default/checkout.payment.template"
+					],
+					[
+						"checkout.rece",
+						"Custom/Content/Themes/Default/checkout.receipt.template"
+					],
+					[
+						"area-checkout",
+						"Custom/Content/Themes/Default/Styles/area-checkout.less"
+					],
+					[
+						"checkout.lo",
+						"Custom/Content/Themes/Default/checkout.login.template"
+					],
+					[
+						"chekout.p",
+						"Custom/Content/Themes/Default/checkout.payment.template"
+					],
+					[
+						"checkout.pay",
+						"Custom/Content/Themes/Default/checkout.payment.template"
+					],
+					[
+						"widge",
+						"Custom/Content/Themes/Default/widget.template"
+					],
+					[
+						"area-ch",
+						"Custom/Content/Themes/Default/Styles/area-checkout.less"
+					],
+					[
+						"basic.l",
+						"Custom/Content/Themes/Default/Styles/basic.less"
+					],
+					[
+						"jquery.core.add",
+						"Scripts/core/jquery.core.addressprovider.js"
+					],
+					[
+						"checkout",
+						"Custom/Content/Themes/Default/checkout.payment.template"
+					],
+					[
+						"vars",
+						"Custom/Content/Themes/Default/Styles/vars.less"
+					],
+					[
+						"widget",
+						"Custom/Content/Themes/Default/widget.template"
+					],
+					[
+						"error.summ",
+						"Custom/Content/Widgets/error.summary/Scripts/wd.error.summary.js"
+					],
+					[
+						"address",
+						"Custom/Content/Themes/Default/addressform.template"
+					],
+					[
+						"deliveryser",
+						"Custom/Content/Widgets/checkout.deliveryservices/Scripts/wd.checkout.deliveryservices.js"
+					],
+					[
+						"area-sho",
+						"Custom/Content/Themes/Default/Styles/area-shopping.less"
+					],
+					[
+						"jquery.va",
+						"Scripts/jquery.validate.js"
+					],
+					[
+						"mixins",
+						"Custom/Content/Themes/Default/Styles/mixins.less"
+					],
+					[
+						"area-che",
+						"Custom/Content/Themes/Default/Styles/area-checkout.less"
+					],
+					[
+						"basic.less",
+						"Custom/Content/Themes/Default/Styles/basic.less"
+					],
+					[
+						"check",
+						"Custom/Content/Themes/Default/checkout.basket.template"
+					],
+					[
+						"widget.tem",
+						"Custom/Content/Themes/Default/widget.template"
+					],
+					[
+						"footer.tem",
+						"Custom/Content/Themes/Default/Footer.template"
+					],
+					[
+						"footer.che",
+						"Custom/Content/Themes/Default/footer.checkout.template"
+					],
+					[
+						"simpl",
+						"Scripts/bundles/simplemodal/simplemodal.css"
+					],
+					[
+						"header",
+						"Custom/Content/Themes/Default/header.checkout.template"
+					],
+					[
+						"brand",
+						"Custom/Content/Widgets/brand.carousel/Scripts/wd.brand.carousel.js"
+					],
+					[
+						"product.reviews",
+						"Custom/Content/Widgets/product.reviews/wd.product.reviews.create.template"
+					],
+					[
+						"area-shop",
+						"Custom/Content/Themes/Default/Styles/area-shopping.less"
+					],
+					[
+						"area",
+						"Custom/Content/Themes/Default/Styles/area-checkout.less"
+					],
+					[
+						"checkout.orderdel",
+						"Custom/Content/Widgets/checkout.orderdeliveryaddress/wd.checkout.orderdeliveryaddress.template"
+					],
+					[
+						"checkou.add",
+						"Custom/Content/Widgets/checkout.addresses/wd.checkout.addresses.template"
+					],
+					[
+						"paymentgroup",
+						"Custom/Content/Widgets/checkout.paymentgroup/Styles/wd.checkout.paymentgroup.less"
+					],
+					[
+						"basi",
+						"Custom/Content/Themes/Default/Styles/basic.less"
+					],
+					[
+						"navigation.hist",
+						"Custom/Content/Widgets/browsing.navigationhistory/Scripts/wd.browsing.navigationhistory.js"
+					],
+					[
+						"footer",
+						"Custom/Content/Themes/Default/Footer.template"
+					],
+					[
+						"wd.checkout.addresses.less",
+						"Custom/Content/Widgets/checkout.addresses/Styles/wd.checkout.addresses.less"
+					],
+					[
+						"checkout.paymentmessage",
+						"Custom/Content/Widgets/checkout.paymentmessage/Scripts/wd.checkout.paymentmessage.js"
+					],
+					[
+						"header.checkout.template",
+						"Custom/Content/Themes/Default/header.checkout.template"
+					],
+					[
+						"product.list",
+						"product.list/wd.product.list.template"
+					],
+					[
+						"product.pr",
+						"product.price/wd.product.price.template"
+					],
+					[
+						"product.fe",
+						"product.featured.list/wd.product.featured.list.template"
+					],
+					[
+						"product.li",
+						"product.line/Scripts/wd.product.line.js"
+					],
+					[
+						"widget.templ",
+						"product.rating/widget.template"
+					],
+					[
+						"profile.lo",
+						"profile.login/wd.profile.login.template"
+					],
+					[
+						"jquery.meio",
+						"Scripts/jquery.meio.mask.js"
+					],
+					[
+						"sty",
+						"Content/style.css"
+					],
+					[
+						"sitelayout/",
+						"Areas/Appearance/Views/SiteLayout/Index.js"
+					],
+					[
+						"butt",
+						"Content/buttons.css"
+					],
+					[
+						"desi",
+						"Content/design-structure.css"
+					],
+					[
+						"catalog/views/in",
+						"Areas/Catalog/Views/InventoryMovement/Movement.ascx"
+					],
+					[
+						"design",
+						"Content/design-structure.css"
+					],
+					[
+						"shell",
+						"Scripts/jquery.shell.js"
+					],
+					[
+						"but",
+						"Content/buttons.css"
+					],
+					[
+						".hol",
+						"Scripts/jquery.shell.holder.js"
+					],
+					[
+						"jquery.she",
+						"Scripts/jquery.shell.js"
+					],
+					[
+						"content",
+						"Scripts/content.ready.js"
+					],
+					[
+						"util",
+						"Scripts/utils.js"
+					],
+					[
+						"styl",
+						"Content/style.css"
+					],
+					[
+						"apps/manage/",
+						"Areas/Apps/Views/Manage/Index.js"
+					],
+					[
+						"utils",
+						"Scripts/utils.js"
+					],
+					[
+						"conten",
+						"Scripts/content.ready.js"
+					],
+					[
+						"shell.js",
+						"Scripts/jquery.shell.js"
+					],
+					[
+						"style",
+						"Content/style.css"
+					],
+					[
+						"apps/manage/in",
+						"Areas/Apps/Views/Manage/Index.js"
+					],
+					[
+						"jsre",
+						"App_GlobalResources/JSResource.designer.cs"
+					],
+					[
+						"order/ship",
+						"Areas/Sales/Views/Order/Shipment.ascx"
+					],
+					[
+						"order/i",
+						"Areas/Sales/Views/Order/Index.aspx"
+					],
+					[
+						"buttons",
+						"Content/buttons.css"
+					],
+					[
+						"jquery.shell.js",
+						"Scripts/jquery.shell.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"",
+						"/C/Users/gustavo.dornelles/Documents/EZ.Store.Mvc.Web.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 299.0,
 			"status_bar_visible": true,
 			"window_id": 26,
-			"workspace_name": "/C/Users/gustavo.dornelles/Documents/EZ.Store.Mvc.Web.sublime-project"
+			"workspace_name": "/C/Users/gustavo.dornelles/Documents/EZ_Manager.sublime-project"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
+			"/C/Users/gustavo.dornelles/Documents/EZ_Manager.sublime-project",
 			"/C/Users/gustavo.dornelles/Documents/EZ.Store.Mvc.Web.sublime-project",
 			"/C/Users/gustavo.dornelles/Documents/EZ.Store.Mvc.Admin.sublime-project",
 			"/C/Users/gustavo.dornelles/Documents/EZ_HelpDesk.sublime-project",
 			"/C/Users/gustavo.dornelles/Documents/nucleo.sublime-project",
-			"/C/Users/gustavo.dornelles/Documents/EZ_Manager.sublime-project",
 			"/C/Users/gustavo.dornelles/Documents/GitHub/GITHUB.sublime-project"
 		]
 	}

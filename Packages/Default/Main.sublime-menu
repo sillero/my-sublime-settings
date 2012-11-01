@@ -446,6 +446,58 @@
                         }
                     },
                     {
+                        "caption": "Grid 3 (bottom)",
+                        "command": "set_layout",
+                        "args": {
+                            "cols": [0.0, 0.5, 1.0],
+                            "rows": [0.0, 0.5, 1.0],
+                            "cells": [
+                                [0, 0, 1, 1],
+                                [1, 0, 2, 1],
+                                [0, 1, 2, 2]
+                            ]
+                        }
+                    },
+                    {
+                        "caption": "Grid 3 (up)",
+                        "command": "set_layout",
+                        "args": {
+                            "cols": [0.0, 0.5, 1.0],
+                            "rows": [0.0, 0.5, 1.0],
+                            "cells": [
+                                [0, 1, 1, 2],
+                                [1, 1, 2, 2],
+                                [0, 0, 2, 1]
+                            ]
+                        }
+                    },
+                    {
+                        "caption": "Grid 3 (left)",
+                        "command": "set_layout",
+                        "args": {
+                            "cols": [0.0, 0.5, 1.0],
+                            "rows": [0.0, 0.5, 1.0],
+                            "cells": [
+                                [1, 0, 2, 1],
+                                [1, 1, 2, 2],
+                                [0, 0, 1, 2]
+                            ]
+                        }
+                    },
+                    {
+                        "caption": "Grid 3 (right)",
+                        "command": "set_layout",
+                        "args": {
+                            "cols": [0.0, 0.5, 1.0],
+                            "rows": [0.0, 0.5, 1.0],
+                            "cells": [
+                                [0, 0, 1, 1],
+                                [0, 1, 1, 2],
+                                [1, 0, 2, 2]
+                            ]
+                        }
+                    },
+                    {
                         "caption": "Grid: 4",
                         "command": "set_layout",
                         "args":
